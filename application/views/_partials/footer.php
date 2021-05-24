@@ -8,8 +8,8 @@
 					Jl. Jend. Sudirman No.51, RT.5/RW.4, <br>
 					Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, <br>
 					DKI Jakarta 12930 <br><br>
-					<strong>Phone:</strong> (021) 5727615<br>
-					<strong>Email:</strong> info@atmajayabls.com<br>
+					<!-- <strong>Phone:</strong> (021) 5727615<br> -->
+					<strong>Email:</strong> abls.uaj@gmail.com<br>
 				</p>
 			</div>
 
