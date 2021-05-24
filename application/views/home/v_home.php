@@ -321,31 +321,35 @@
 
 			<div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
 
-				<!-- <div class="col-lg-3 col-md-4 col-6">
+				<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+					<!-- <img src="assets/img/clients/client-1.png" class="img-fluid" alt=""> -->
+					<p>Corporate Legal Academy </p>
 				</div>
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+					<!-- <img src="assets/img/clients/client-2.png" class="img-fluid" alt=""> -->
+					<p>NBLC Summit</p>
 				</div>
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+					<!-- <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">-->
+					<p>Atma Jaya Business Law Competition</p>
 				</div>
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+					<!-- <img src="assets/img/clients/client-4.png" class="img-fluid" alt=""> -->
+					<p>Atma Jaya Internal Legal Opinion Competition</p>
 				</div>
 			</div>
 
-			<div class="col-lg-3 col-md-4 col-6">
+			<!-- <div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
 					<img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
 				</div>
@@ -367,7 +371,7 @@
 				<div class="client-logo">
 					<img src="assets/img/clients/client-8.png" class="img-fluid" alt="">
 				</div>
-			</div> -->
+			</div>  -->
 
 			</div>
 
