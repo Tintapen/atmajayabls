@@ -34,9 +34,9 @@
 	</nav>
 
 	<div class="header-social-links">
-		<a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-		<a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-		<a href="#" class="instagram"><i class="icofont-instagram"></i></a>
+		<!-- <a href="#" class="twitter"><i class="icofont-twitter"></i></a> -->
+		<!-- <a href="#" class="facebook"><i class="icofont-facebook"></i></a> -->
+		<a href="https://www.instagram.com/atmajayabls" class="instagram"><i class="icofont-instagram"></i></a>
 		<a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
 	</div>
 

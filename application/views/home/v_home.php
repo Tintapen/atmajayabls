@@ -311,20 +311,19 @@
 
 	</div>
 </section> -->
-
 	<section id="clients" class="clients">
 		<div class="container" data-aos="fade-up">
 
 			<div class="section-title">
-				<h2>Events</h2>
+				<h2>Project & Events</h2>
 			</div>
 
 			<div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
 
 				<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<!-- <img src="assets/img/clients/client-1.png" class="img-fluid" alt=""> -->
-					<p>Corporate Legal Academy </p>
+					<img src="assets/img/abls/logocla.png" class="img-fluid" alt="">
+					<!-- <p>Corporate Legal Academy </p> -->
 				</div>
 			</div>
 

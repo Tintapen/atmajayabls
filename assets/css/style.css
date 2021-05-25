@@ -866,7 +866,7 @@ section {
 
 .clients .client-logo img {
   transition: all 0.3s ease-in-out;
-  height: 36px;
+  height: 60px;
   filter: grayscale(100%);
 }
 

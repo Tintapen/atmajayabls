@@ -3,13 +3,13 @@
 		<div class="row">
 
 			<div class="col-lg-3 col-md-6 footer-contact">
-				<h3>ABLS</h3>
+				<h3>Atma Jaya Business Law Society</h3>
 				<p>
-					Jl. Jend. Sudirman No.51, RT.5/RW.4, <br>
-					Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, <br>
-					DKI Jakarta 12930 <br><br>
+					Fakultas Hukum Universitas Katolik Indonesia Atma Jaya <br>
+					Jl. Jend. Sudirman No.51, RT.5/RW.4, Kampus Semanggi<br>
+					DKI Jakarta 12930<br>
 					<!-- <strong>Phone:</strong> (021) 5727615<br> -->
-					<strong>Email:</strong> abls.uaj@gmail.com<br>
+					<strong>E-mail:</strong> abls.uaj@gmail.com<br>
 				</p>
 			</div>
 
@@ -52,7 +52,7 @@
 
 	<div class="mr-md-auto text-center text-md-left">
 		<div class="copyright">
-			&copy; <?= date('Y'); ?> <strong><span>ATMAJAYA ABLS</span></strong>. All Rights Reserved
+			&copy; <?= date('Y'); ?> <strong><span>Atma Jaya Business Law Society</span></strong>. All Rights Reserved
 		</div>
 		<div class="credits">
 			<!-- All the links in the footer should remain intact. -->
@@ -63,10 +63,10 @@
 		</div>
 	</div>
 	<div class="social-links text-center text-md-right pt-3 pt-md-0">
-		<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-		<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-		<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-		<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+		<!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
+		<!-- <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a> -->
+		<a href="https://www.instagram.com/atmajayabls" class="instagram"><i class="bx bxl-instagram"></i></a>
+		<!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> 	 -->
 		<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
 	</div>
 </div>
