@@ -1,8 +1,10 @@
 <div class="container d-flex align-items-center">
 
+	<!-- <img src="assets/img/abls/ABLC.png" class="img-fluid" alt=""> -->
+	<a href="<?= base_url() ?>"><img src="assets/img/abls/2.png" class="img-fluid" style="width:65px;height:70px;">
 	<h1 class="logo mr-auto"><a href="<?= base_url() ?>"><span>AB</span>LS</a></h1>
 	<!-- Uncomment below if you prefer to use an image logo -->
-	<!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+	<!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/abls/2.png" class="img-fluid"></a> -->
 
 	<nav class="nav-menu d-none d-lg-block">
 		<ul>

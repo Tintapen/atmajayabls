@@ -20,9 +20,9 @@
 			<div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
 				<div class="carousel-container">
 					<div class="carousel-content animate__animated animate__fadeInUp">
-						<h2>Lorem Ipsum Dolor</h2>
-						<p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-						<div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+						<h2>Achievement</h2>
+						<p>Our Achievement through the years</p>
+						<div class="text-center"><a href="" class="btn-get-started">See More</a></div>
 					</div>
 				</div>
 			</div>
@@ -31,9 +31,9 @@
 			<div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
 				<div class="carousel-container">
 					<div class="carousel-content animate__animated animate__fadeInUp">
-						<h2>Sequi ea ut et est quaerat</h2>
-						<p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-						<div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+						<h2>Project & Events</h2>
+						<p>We got a lots of Project & Events that can make you getting better and better each day.</p>
+						<div class="text-center"><a href="" class="btn-get-started">See More</a></div>
 					</div>
 				</div>
 			</div>
@@ -322,9 +322,10 @@
 
 				<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<img src="assets/img/abls/logocla.png" class="img-fluid" alt="">
+					<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="">
 					<!-- <p>Corporate Legal Academy </p> -->
 				</div>
+				
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-6">
@@ -336,15 +337,15 @@
 
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<!-- <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">-->
-					<p>Atma Jaya Business Law Competition</p>
+				<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="">
+					<!-- <p>Atma Jaya Business Law Competition</p> -->
 				</div>
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-					<!-- <img src="assets/img/clients/client-4.png" class="img-fluid" alt=""> -->
-					<p>Atma Jaya Internal Legal Opinion Competition</p>
+				<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:85px;height:90px;">
+					<!-- <p>Atma Jaya Internal Legal Opinion Competition</p> -->
 				</div>
 			</div>
 

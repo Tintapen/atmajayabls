@@ -11,6 +11,7 @@
 					<!-- <strong>Phone:</strong> (021) 5727615<br> -->
 					<strong>E-mail:</strong> abls.uaj@gmail.com<br>
 				</p>
+				<a href="<?= base_url() ?>"><img src="assets/img/abls/1.png" class="img-fluid" style="width:95px;height:100px;">
 			</div>
 
 			<div class="col-lg-2 col-md-6 footer-links">
