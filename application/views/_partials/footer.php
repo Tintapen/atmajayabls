@@ -8,7 +8,6 @@
 					Fakultas Hukum Universitas Katolik Indonesia Atma Jaya <br>
 					Jl. Jend. Sudirman No.51, RT.5/RW.4, Kampus Semanggi<br>
 					DKI Jakarta 12930<br>
-					<!-- <strong>Phone:</strong> (021) 5727615<br> -->
 					<strong>E-mail:</strong> abls.uaj@gmail.com<br>
 				</p>
 				<a href="<?= base_url() ?>"><img src="assets/img/abls/1.png" class="img-fluid" style="width:95px;height:100px;">
