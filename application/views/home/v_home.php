@@ -69,7 +69,7 @@
 					<p>Atma Jaya Business Law Society (“ABLS”) is a business law-based organization
 					that has a strong vision to make Atma Jaya Business Law Society a pioneer for all
 					business law organizations in the Faculty of Law throughout Indonesia.</p>
-					<p>The mission is to personify the vision by:
+					<p>The mission is to personify the vision by:</p>
 						<ul>
 						<li><i class="ri-check-double-line"></i> Produce a leading work programs that related to Business Law.</li>
 						<li><i class="ri-check-double-line"></i> Provide ABLS active members to become a great human resources who are
@@ -348,30 +348,6 @@
 					<!-- <p>Atma Jaya Internal Legal Opinion Competition</p> -->
 				</div>
 			</div>
-
-			<!-- <div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-					<img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-				</div>
-			</div>
-
-			<div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-					<img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-				</div>
-			</div>
-
-			<div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-					<img src="assets/img/clients/client-7.png" class="img-fluid" alt="">
-				</div>
-			</div>
-
-			<div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-					<img src="assets/img/clients/client-8.png" class="img-fluid" alt="">
-				</div>
-			</div>  -->
 
 			</div>
 

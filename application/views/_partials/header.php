@@ -12,7 +12,7 @@
 
 				<li class="drop-down"><a href="">About</a>
 					<ul>
-						<li><a href="<?= base_url('aboutus') ?>">About Us</a></li>
+						<li><a href="<?= base_url('about') ?>">About Us</a></li>
 						<li><a href="<?= base_url('contact') ?>">Contact Us</a></li>
 						<!-- <li><a href="testimonials.html">Testimonials</a></li>
 					<li class="drop-down"><a href="#">Deep Drop Down</a>

@@ -17,9 +17,9 @@
 			<div class="col-lg-2 col-md-6 footer-links">
 				<h4>Useful Links</h4>
 				<ul>
-					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('aboutus') ?>">About Us</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('about') ?>">About Us</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('contact') ?>">Contact Us</a></li>
-					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('divisions') ?>">Divisions</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('division') ?>">Divisions</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('achievement') ?>">Achievement</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('Provent') ?>">Project & Events</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('legal') ?>">ABLS Legal Review</a></li>

@@ -524,6 +524,11 @@ section {
   background-color: #f7f7f7;
 }
 
+.section-division {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
 .section-title {
   text-align: center;
   padding-bottom: 30px;
