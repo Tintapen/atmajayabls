@@ -27,7 +27,7 @@
 				</ul>
 			</li>
 
-			<li><a href="<?= base_url('divisions') ?>">Divisions</a></li>
+			<li><a href="<?= base_url('Division') ?>">Divisions</a></li>
 			<li><a href="<?= base_url('achievement') ?>">Achievement</a></li>
 			<li><a href="<?= base_url('Provent') ?>">Project & Events</a></li>
 			<li><a href="<?= base_url('legal') ?>">ABLS Legal Review</a></li>
