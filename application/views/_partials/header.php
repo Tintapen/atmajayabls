@@ -14,7 +14,7 @@
 					</ul>
 				</li>
 				<li <?php if ($this->uri->segment(1) == 'achievement') echo "class='active'"; ?>><a href="<?= base_url('achievement') ?>">Achievement</a></li>
-				<li <?php if ($this->uri->segment(1) == 'provent') echo "class='active'"; ?>><a href="<?= base_url('provent') ?>">Project & Events</a></li>
+				<li <?php if ($this->uri->segment(1) == 'project') echo "class='active'"; ?>><a href="<?= base_url('project') ?>">Project & Events</a></li>
 				<!-- <li <?php if ($this->uri->segment(1) == 'legal') echo "class='active'"; ?>><a href="<?= base_url('legal') ?>">ABLS Legal Review</a></li> -->
 			</ul>
 		</nav>
