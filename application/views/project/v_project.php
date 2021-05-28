@@ -18,10 +18,14 @@
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
       <div class="container" data-aos="fade-up">
+
+      <div class="section-title mt-5" data-aos="fade-up">
+				<h2>Project & <strong>Events</strong></h2>
+			</div>
         <div class="portfolio-details-container">
 
          
-          <img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="" style="position:relative; width:600px;height:400px;">
+          <img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="" style="position:relative; width:300px;height:200px;">
   
 
         </div>
@@ -63,7 +67,7 @@
         <div class="portfolio-details-container">
 
        
-          <img src="assets/img/abls/ABLC.png" class="img-fluid" alt="" style="position:relative; width:400px;height:400px;">
+          <img src="assets/img/abls/ABLC.png" class="img-fluid" alt="" style="position:relative; width:300px;height:300px;">
         
 
         </div>
@@ -82,7 +86,7 @@
         <div class="portfolio-details-container">
 
        
-          <img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:500px;height:500px;">
+          <img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:300px;height:300px;">
     
         </div>
 
