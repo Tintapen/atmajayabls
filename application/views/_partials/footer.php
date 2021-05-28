@@ -21,7 +21,7 @@
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('division') ?>">Divisions</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('achievement') ?>">Achievement</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('Provent') ?>">Project & Events</a></li>
-					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('legal') ?>">ABLS Legal Review</a></li>
+					<!-- <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('legal') ?>">ABLS Legal Review</a></li> -->
 				</ul>
 			</div>
 

@@ -19,13 +19,12 @@
 	<section id="team" class="team section-bg">
 		<div class="container">
 
-			<div class="section-title" data-aos="fade-up">
+		<div class="section-title mt-5" data-aos="fade-up">
 				<h2>Managing <strong>Executive</strong></h2>
-				<!-- <p>.</p> -->
 			</div>
 
-			<div class="row">
-
+			<!-- <div class="row"> -->
+			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up">
 						<div class="member-img">
@@ -43,7 +42,9 @@
 						</div>
 					</div>
 				</div>
+			</div>
 
+			<div class="row d-flax justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="100">
 						<div class="member-img">
@@ -115,9 +116,6 @@
 						</div>
 					</div>
 				</div>
-
-
-
 			</div>
 
 
@@ -131,8 +129,6 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Gandhi Dwiky Mohamad.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
 								<a href=""><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -344,7 +340,6 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
 
 			<div class="section-title mt-5" data-aos="fade-up">
@@ -352,15 +347,12 @@
 				<!-- <p>.</p> -->
 			</div>
 
-			<div class="row">
-
+			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
 								<a href=""><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -371,7 +363,9 @@
 						</div>
 					</div>
 				</div>
+			</div>
 
+			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
@@ -426,7 +420,8 @@
 						</div>
 					</div>
 				</div>
-
+			</div>
+			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
@@ -462,6 +457,7 @@
 						</div>
 					</div>
 				</div>
+</div>
 
 			</div>
 		</div>
