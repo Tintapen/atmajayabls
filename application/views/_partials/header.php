@@ -1,10 +1,7 @@
 <div class="container d-flex align-items-center">
 
-	<!-- <img src="assets/img/abls/ABLC.png" class="img-fluid" alt=""> -->
 	<a href="<?= base_url() ?>" class="logo mr-1"><img src="assets/img/abls/2.png" class="img-fluid">
 		<h1 class="logo mr-auto"><a href="<?= base_url() ?>"><span>AB</span>LS</a></h1>
-		<!-- Uncomment below if you prefer to use an image logo -->
-		<!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/abls/2.png" class="img-fluid"></a> -->
 
 		<nav class="nav-menu d-none d-lg-block">
 			<ul>
@@ -12,18 +9,8 @@
 
 				<li class="drop-down"><a href="">About</a>
 					<ul>
-						<li><a href="<?= base_url('about') ?>">About Us</a></li>
-						<li><a href="<?= base_url('contact') ?>">Contact Us</a></li>
-						<!-- <li><a href="testimonials.html">Testimonials</a></li>
-					<li class="drop-down"><a href="#">Deep Drop Down</a>
-						<ul>
-							<li><a href="#">Deep Drop Down 1</a></li>
-							<li><a href="#">Deep Drop Down 2</a></li>
-							<li><a href="#">Deep Drop Down 3</a></li>
-							<li><a href="#">Deep Drop Down 4</a></li>
-							<li><a href="#">Deep Drop Down 5</a></li>
-						</ul>
-					</li> -->
+						<li <?php if ($this->uri->segment(1) == 'about') echo "class='active'"; ?>><a href="<?= base_url('about') ?>">About Us</a></li>
+						<li <?php if ($this->uri->segment(1) == 'contact') echo "class='active'"; ?>><a href="<?= base_url('contact') ?>">Contact Us</a></li>
 					</ul>
 				</li>
 
