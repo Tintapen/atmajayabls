@@ -344,7 +344,7 @@
 
 			<div class="col-lg-3 col-md-4 col-6">
 				<div class="client-logo">
-				<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:85px;height:90px;">
+				<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:75px;height:70px;">
 					<!-- <p>Atma Jaya Internal Legal Opinion Competition</p> -->
 				</div>
 			</div>

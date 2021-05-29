@@ -86,7 +86,7 @@
         <div class="portfolio-details-container">
 
        
-          <img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:300px;height:300px;">
+          <img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:320px;height:300px;">
     
         </div>
 
