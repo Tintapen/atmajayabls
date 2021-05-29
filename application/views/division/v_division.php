@@ -32,8 +32,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a> -->
 								<!-- <a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/albimarangga/ "><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/albima-rangga-setiyawan-501b531b5/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -52,8 +52,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/fei.slsbll/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/feira-salsabila-b5aa691b3/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -70,8 +70,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/hanuritaaa/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/hanurita-ayu-493649159/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -88,8 +88,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/matthewrianto/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/matthew-aprianto-81430a1b2/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -106,8 +106,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/jesicajillv/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/jesica-jill-valentine-bb8494134/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -129,7 +129,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Gandhi Dwiky Mohamad.png" class="img-fluid" alt="">
 							<div class="social">
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/gandhiwicky/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -149,7 +149,7 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/benrgalla/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -168,7 +168,7 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/jslebe_/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -186,8 +186,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/meii_dita/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/meidita-r-a63a741b8/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -206,8 +206,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/patricingrid/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/patricia-ingrid-dewani-50a0031b7/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -224,8 +224,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/jeevangeli/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/jessicaevangeli/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -242,7 +242,7 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/fillipelarry/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -296,8 +296,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/anastasya.ajeng/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/anastasya.ajeng/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -314,8 +314,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/gabriella.jasmine/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/gabriella.jasmine/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -330,7 +330,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Gabriella Jasmine.png" class="img-fluid" alt="">
 							<div class="social">
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/a_damnations/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -353,8 +353,8 @@
 						<div class="member-img">
 							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
 							<div class="social">
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/james.xaverius/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/james-xaverius/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -392,8 +392,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/ryanricardotj/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/ryan-ricardo-064aa4173/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -410,7 +410,7 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/datdazza/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -429,7 +429,7 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/krisnantyow/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -447,8 +447,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/adrianyuong/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/michaelyoung123/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
