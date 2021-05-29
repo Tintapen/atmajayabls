@@ -69,8 +69,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a> -->
 								<!-- <a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/albimarangga/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/albima-rangga-setiyawan-501b531b5/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -89,8 +89,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/fei.slsbll/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/feira-salsabila-b5aa691b3/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -106,8 +106,8 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/matthewrianto/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/matthew-aprianto-81430a1b2/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -123,7 +123,7 @@
 							<div class="social">
 								<!-- <a href=""><i class="icofont-twitter"></i></a>
 								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href=""><i class="icofont-instagram"></i></a>
+								<a href="https://www.instagram.com/gandhiwicky/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
@@ -138,8 +138,8 @@
 						<div class="member-img">
 							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
 							<div class="social">
-								<a href=""><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/james.xaverius/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/james-xaverius/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
