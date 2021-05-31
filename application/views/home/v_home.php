@@ -22,7 +22,7 @@
 					<div class="carousel-content animate__animated animate__fadeInUp">
 						<h2>Achievement</h2>
 						<p>Our Achievement through the years</p>
-						<div class="text-center"><a href="" class="btn-get-started">See More</a></div>
+						<div class="text-center"><a href="achievement" class="btn-get-started">See More</a></div>
 					</div>
 				</div>
 			</div>
@@ -31,9 +31,9 @@
 			<div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
 				<div class="carousel-container">
 					<div class="carousel-content animate__animated animate__fadeInUp">
-						<h2>Project & Events</h2>
+						<h2>Project</h2>
 						<p>We got a lots of Project & Events that can make you getting better and better each day.</p>
-						<div class="text-center"><a href="" class="btn-get-started">See More</a></div>
+						<div class="text-center"><a href="project" class="btn-get-started">See More</a></div>
 					</div>
 				</div>
 			</div>
