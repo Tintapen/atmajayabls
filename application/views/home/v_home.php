@@ -5,14 +5,14 @@
 		<div class="carousel-inner" role="listbox">
 
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board.png); background-size: 100% 100%;">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board.png);">
 				<!-- <div class="carousel-container"> -->
-					<!-- <div class="carousel-content animate__animated animate__fadeInUp"> -->
-						<!-- <h2>Welcome to <span>Company</span></h2> -->
-						<!-- <h2>Atma Jaya Business Law Society</h2> -->
-						<!-- <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p> -->
-						<!-- <div class="text-center"><a href="" class="btn-get-started">Read More</a></div> -->
-					<!-- </div> -->
+				<!-- <div class="carousel-content animate__animated animate__fadeInUp"> -->
+				<!-- <h2>Welcome to <span>Company</span></h2> -->
+				<!-- <h2>Atma Jaya Business Law Society</h2> -->
+				<!-- <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p> -->
+				<!-- <div class="text-center"><a href="" class="btn-get-started">Read More</a></div> -->
+				<!-- </div> -->
 				<!-- </div> -->
 			</div>
 
@@ -67,22 +67,22 @@
 				<div class="col-lg-6" data-aos="fade-right">
 					<h2>Vision & Mission</h2>
 					<p>Atma Jaya Business Law Society (“ABLS”) is a business law-based organization
-					that has a strong vision to make Atma Jaya Business Law Society a pioneer for all
-					business law organizations in the Faculty of Law throughout Indonesia.</p>
+						that has a strong vision to make Atma Jaya Business Law Society a pioneer for all
+						business law organizations in the Faculty of Law throughout Indonesia.</p>
 					<p>The mission is to personify the vision by:</p>
-						<ul>
+					<ul>
 						<li><i class="ri-check-double-line"></i> Produce a leading work programs that related to Business Law.</li>
 						<li><i class="ri-check-double-line"></i> Provide ABLS active members to become a great human resources who are
-						able to compete competitively in the world of Business Law.</li>
+							able to compete competitively in the world of Business Law.</li>
 					</ul>
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
-						ABLS is a business law society in Atma Jaya Chatolic University of Indonesia. 
-						We are the only organization in Atma Jaya Chatolic University of Indonesia that 
-						provide and train college students in Economics and Business Law. Why business law? 
-						Indonesia is facing Asean Economic Community, AFTA, and etc. Because of these, 
-						we are here to prepare college students to be professional person, 
+						ABLS is a business law society in Atma Jaya Chatolic University of Indonesia.
+						We are the only organization in Atma Jaya Chatolic University of Indonesia that
+						provide and train college students in Economics and Business Law. Why business law?
+						Indonesia is facing Asean Economic Community, AFTA, and etc. Because of these,
+						we are here to prepare college students to be professional person,
 						especially to be a great corporate lawyer.
 					</p>
 					<!-- <ul>
@@ -92,13 +92,13 @@
 					</ul> -->
 					<p>
 						We develop college students’ skill through training, workshop, seminar, and
-						also business law competition. Our goal is to prepare college students 
+						also business law competition. Our goal is to prepare college students
 						to be an intelligent person that is useful to face real-world in law firm.
 					</p>
 					<p>
-					ABLS formed in 2014 by the founders. They are Albertus Andhika, Andonius
-					Simanjorang, Angela Yogiana, Arvin Raharja, Peter Pendowo, Selfi, and Yoanna
-					Syvia Dessyadventia Ben.</p>
+						ABLS formed in 2014 by the founders. They are Albertus Andhika, Andonius
+						Simanjorang, Angela Yogiana, Arvin Raharja, Peter Pendowo, Selfi, and Yoanna
+						Syvia Dessyadventia Ben.</p>
 				</div>
 			</div>
 
@@ -321,33 +321,33 @@
 			<div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
 
 				<div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-					<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="">
-					<!-- <p>Corporate Legal Academy </p> -->
-				</div>
-				
-			</div>
+					<div class="client-logo">
+						<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="">
+						<!-- <p>Corporate Legal Academy </p> -->
+					</div>
 
-			<div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-					<!-- <img src="assets/img/clients/client-2.png" class="img-fluid" alt=""> -->
-					<p>NBLC Summit</p>
 				</div>
-			</div>
 
-			<div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-				<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="">
-					<!-- <p>Atma Jaya Business Law Competition</p> -->
+				<div class="col-lg-3 col-md-4 col-6">
+					<div class="client-logo">
+						<!-- <img src="assets/img/clients/client-2.png" class="img-fluid" alt=""> -->
+						<p>NBLC Summit</p>
+					</div>
 				</div>
-			</div>
 
-			<div class="col-lg-3 col-md-4 col-6">
-				<div class="client-logo">
-				<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:75px;height:70px;">
-					<!-- <p>Atma Jaya Internal Legal Opinion Competition</p> -->
+				<div class="col-lg-3 col-md-4 col-6">
+					<div class="client-logo">
+						<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="">
+						<!-- <p>Atma Jaya Business Law Competition</p> -->
+					</div>
 				</div>
-			</div>
+
+				<div class="col-lg-3 col-md-4 col-6">
+					<div class="client-logo">
+						<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:75px;height:70px;">
+						<!-- <p>Atma Jaya Internal Legal Opinion Competition</p> -->
+					</div>
+				</div>
 
 			</div>
 
