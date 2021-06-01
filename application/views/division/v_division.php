@@ -20,7 +20,7 @@
 		<div class="container">
 
 		<div class="section-title mt-5" data-aos="fade-up">
-				<h2>Managing <strong>Executive</strong></h2>
+				<h2>Board of<strong> Directors</strong></h2>
 			</div>
 
 			<!-- <div class="row"> -->

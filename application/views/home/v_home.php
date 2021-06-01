@@ -5,7 +5,7 @@
 		<div class="carousel-inner" role="listbox">
 
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1.png);">
 				<!-- <div class="carousel-container"> -->
 				<!-- <div class="carousel-content animate__animated animate__fadeInUp"> -->
 				<!-- <h2>Welcome to <span>Company</span></h2> -->
@@ -17,18 +17,18 @@
 			</div>
 
 			<!-- Slide 2 -->
-			<div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
+			<div class="carousel-item" style="background-image: url(assets/img/abls/Project.png);">
 				<div class="carousel-container">
 					<div class="carousel-content animate__animated animate__fadeInUp">
-						<h2>Achievement</h2>
-						<p>Our Achievement through the years</p>
-						<div class="text-center"><a href="<?= base_url('achievement') ?>" class="btn-get-started">See More</a></div>
+						<h2>Project</h2>
+						<p>The project that already held and our upcoming project.</p>
+						<div class="text-center"><a href="<?= base_url('project') ?>" class="btn-get-started">See More</a></div>
 					</div>
 				</div>
 			</div>
 
 			<!-- Slide 3 -->
-			<div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
+			<!-- <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
 				<div class="carousel-container">
 					<div class="carousel-content animate__animated animate__fadeInUp">
 						<h2>Project</h2>
@@ -36,7 +36,7 @@
 						<div class="text-center"><a href="<?= base_url('project') ?>" class="btn-get-started">See More</a></div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 
 		</div>
 

@@ -17,7 +17,7 @@
 
 			<div class="row content">
 				<div class="col-lg-6" data-aos="fade-right">
-					<h2>Vision & Mission</h2>
+					<h2>Atma Jaya BLS</h2>
 					<p>Atma Jaya Business Law Society (“ABLS”) is a business law-based organization
 						that has a strong vision to make Atma Jaya Business Law Society a pioneer for all
 						business law organizations in the Faculty of Law throughout Indonesia.</p>
@@ -58,7 +58,7 @@
 		<div class="container">
 
 			<div class="section-title" data-aos="fade-up">
-				<h2><strong>OUR LEADER</strong></h2>
+				<h2><strong>Board Of Director</strong></h2>
 			</div>
 
 			<div class="row d-flex justify-content-center">
@@ -76,12 +76,34 @@
 						<div class="member-info">
 							<h4>Albima Rangga Setiyawan</h4>
 							<span>Executive Director</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
 			</div>
-
 			<div class="row d-flex justify-content-center">
+			<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="400">
+						<div class="member-img">
+							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
+							<div class="social">
+								<a href="https://www.instagram.com/james.xaverius/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/james-xaverius/"><i class="icofont-linkedin"></i></a>
+							</div>
+						</div>
+						<div class="member-info">
+							<h4>James Xaverius Lemi</h4>
+							<span>Director of Research</span> 
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
+						</div>
+					</div>
+				</div>
+
+			
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="100">
 						<div class="member-img">
@@ -95,7 +117,10 @@
 						</div>
 						<div class="member-info">
 							<h4>Feira Salsabila Nadiaputri</h4>
-							<span>Secretary</span>
+							<span>General Secretary</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -113,6 +138,9 @@
 						<div class="member-info">
 							<h4>Matthew Aprianto</h4>
 							<span>Treasurer</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -129,25 +157,14 @@
 						</div>
 						<div class="member-info">
 							<h4>Gandhi Dwiky Mohamad</h4>
-							<span>Director of Organizations</span>
+							<span>Director of Organizations</Span>
+							 <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="400">
-						<div class="member-img">
-							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
-							<div class="social">
-								<a href="https://www.instagram.com/james.xaverius/"><i class="icofont-instagram"></i></a>
-								<a href="https://www.linkedin.com/in/james-xaverius/"><i class="icofont-linkedin"></i></a>
-							</div>
-						</div>
-						<div class="member-info">
-							<h4>James Xaverius Lemi</h4>
-							<span>Director of Research</span>
-						</div>
-					</div>
-				</div>
+			
 			</div>
 		</div>
 	</section>
