@@ -67,8 +67,6 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Albima Rangga Setiyawan.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a> -->
-								<!-- <a href=""><i class="icofont-facebook"></i></a> -->
 								<a href="https://www.instagram.com/albimarangga/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/albima-rangga-setiyawan-501b531b5/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -83,6 +81,7 @@
 					</div>
 				</div>
 			</div>
+
 			<div class="row d-flex justify-content-center">
 			<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="400">
@@ -124,6 +123,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="200">
 						<div class="member-img">
@@ -144,6 +144,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">

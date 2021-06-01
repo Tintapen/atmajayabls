@@ -23,15 +23,14 @@
 				<h2>Board of<strong> Directors</strong></h2>
 			</div>
 
-			<!-- <div class="row"> -->
+	
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up">
 						<div class="member-img">
 							<img src="assets/img/abls/Albima Rangga Setiyawan.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a> -->
-								<!-- <a href=""><i class="icofont-facebook"></i></a> -->
+							
 								<a href="https://www.instagram.com/albimarangga/ "><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/albima-rangga-setiyawan-501b531b5/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -39,12 +38,34 @@
 						<div class="member-info">
 							<h4>Albima Rangga Setiyawan</h4>
 							<span>Executive Director</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
 			</div>
 
-			<div class="row d-flax justify-content-center">
+			<div class="row d-flex justify-content-center">
+			<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="400">
+						<div class="member-img">
+							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
+							<div class="social">
+								<a href="https://www.instagram.com/james.xaverius/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/james-xaverius/"><i class="icofont-linkedin"></i></a>
+							</div>
+						</div>
+						<div class="member-info">
+							<h4>James Xaverius Lemi</h4>
+							<span>Director of Research</span> 
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
+						</div>
+					</div>
+				</div>
+
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="100">
 						<div class="member-img">
@@ -58,31 +79,16 @@
 						</div>
 						<div class="member-info">
 							<h4>Feira Salsabila Nadiaputri</h4>
-							<span>Secretary</span>
+							<span>General Secretary</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="200">
-						<div class="member-img">
-							<img src="assets/img/abls/Hanurita Ayu Widyasti.png" class="img-fluid" alt="">
-							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
-								<a href="https://www.instagram.com/hanuritaaa/"><i class="icofont-instagram"></i></a>
-								<a href="https://www.linkedin.com/in/hanurita-ayu-493649159/"><i class="icofont-linkedin"></i></a>
-							</div>
-						</div>
-						<div class="member-info">
-							<h4>Hanurita Ayu Widyasti</h4>
-							<span>Vice Secretary</span>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/Matthew Aprianto.png" class="img-fluid" alt="">
 							<div class="social">
@@ -95,6 +101,52 @@
 						<div class="member-info">
 							<h4>Matthew Aprianto</h4>
 							<span>Treasurer</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
+							<img src="assets/img/abls/Gandhi Dwiky Mohamad.png" class="img-fluid" alt="">
+							<div class="social">
+								<!-- <a href=""><i class="icofont-twitter"></i></a>
+								<a href=""><i class="icofont-facebook"></i></a> -->
+								<a href="https://www.instagram.com/gandhiwicky/"><i class="icofont-instagram"></i></a>
+								<a href=""><i class="icofont-linkedin"></i></a>
+							</div>
+						</div>
+						<div class="member-info">
+							<h4>Gandhi Dwiky Mohamad</h4>
+							<span>Director of Organizations</Span>
+							 <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
+							<img src="assets/img/abls/Hanurita Ayu Widyasti.png" class="img-fluid" alt="">
+							<div class="social">
+								
+								<a href="https://www.instagram.com/hanuritaaa/"><i class="icofont-instagram"></i></a>
+								<a href=""><i class="icofont-linkedin"></i></a>
+							</div>
+						</div>
+						<div class="member-info">
+							<h4>Hanurita Ayu Widyasti</h4>
+							<span>Vice Secretary</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -104,8 +156,6 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Jessica Jill Valentine.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
 								<a href="https://www.instagram.com/jesicajillv/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/jesica-jill-valentine-bb8494134/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -113,13 +163,15 @@
 						<div class="member-info">
 							<h4>Jessica Jill Valentine</h4>
 							<span>Vice Treasurer</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
-			</div>
 
 
-			<div class="section-title mt-5" data-aos="fade-up">
+			<!-- <div class="section-title mt-5" data-aos="fade-up">
 				<h2>Departement of <strong>Organizations</strong></h2>
 			</div>
 
@@ -147,8 +199,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Benedictus Richardo Galla.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+							
 								<a href="https://www.instagram.com/benrgalla/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -166,8 +217,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Jonathan Sastyoviandi Lebe.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+					
 								<a href="https://www.instagram.com/jslebe_/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -184,8 +234,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Meidita Rahmawati.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+								
 								<a href="https://www.instagram.com/meii_dita/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/meidita-r-a63a741b8/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -204,8 +253,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Patricia Inggrid Dewani.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+							
 								<a href="https://www.instagram.com/patricingrid/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/patricia-ingrid-dewani-50a0031b7/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -222,8 +270,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Jessica Evangeli Santoso.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+						
 								<a href="https://www.instagram.com/jeevangeli/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/jessicaevangeli/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -240,8 +287,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Fillipe Larry.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+							
 								<a href="https://www.instagram.com/fillipelarry/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -258,8 +304,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Athaya Dyandra Alikashari.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+						
 								<a href=""><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -276,8 +321,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Naufal Hisyam.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+						
 								<a href=""><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -294,8 +338,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Anastasya Pambajeng.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+						
 								<a href="https://www.instagram.com/anastasya.ajeng/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.instagram.com/anastasya.ajeng/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -312,8 +355,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Gabriella Jasmine.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+							
 								<a href="https://www.instagram.com/gabriella.jasmine/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.instagram.com/gabriella.jasmine/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -344,7 +386,7 @@
 
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2>Departement of <strong>Research</strong></h2>
-				<!-- <p>.</p> -->
+			
 			</div>
 
 			<div class="row d-flex justify-content-center">
@@ -371,8 +413,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Immanuel Owen.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+								
 								<a href=""><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -390,8 +431,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Ryan Ricardo.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+								
 								<a href="https://www.instagram.com/ryanricardotj/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/ryan-ricardo-064aa4173/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -408,8 +448,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Darren Putranto.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+							
 								<a href="https://www.instagram.com/datdazza/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -427,8 +466,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Alexius Krisnantyo.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+								
 								<a href="https://www.instagram.com/krisnantyow/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -445,8 +483,6 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Michael Adrian Young.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
 								<a href="https://www.instagram.com/adrianyuong/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/michaelyoung123/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -456,7 +492,7 @@
 							<span>Intelectual Property</span>
 						</div>
 					</div>
-				</div>
+				</div> -->
 </div>
 
 			</div>
