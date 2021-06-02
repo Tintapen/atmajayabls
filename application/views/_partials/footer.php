@@ -19,6 +19,7 @@
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('about') ?>">About Us</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('contact') ?>">Contact Us</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('division') ?>">Divisions</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('nblc') ?>">NBLC</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('achievement') ?>">Achievement</a></li>
 					<li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('project') ?>">Project & Events</a></li>
 					<!-- <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('legal') ?>">ABLS Legal Review</a></li> -->
