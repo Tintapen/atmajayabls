@@ -330,8 +330,8 @@
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<!-- <img src="assets/img/clients/client-2.png" class="img-fluid" alt=""> -->
-						<p>NBLC Summit</p>
+						<img src="assets/img/abls/NBLC.png" class="img-fluid" alt="">
+						<!-- <p>NBLC Summit</p> -->
 					</div>
 				</div>
 
