@@ -5,7 +5,7 @@
 		<div class="container">
 
 			<div class="d-flex justify-content-between align-items-center">
-				<h2>Division</h2>
+				<h2>Departement Of Research</h2>
 				<!-- <ol>
 					<li><a href="index.html">Home</a></li>
 					<li>Division</li>
@@ -19,7 +19,7 @@
 	<section id="team" class="team section-bg">
 		<div class="container">
 
-		<div class="section-title mt-5" data-aos="fade-up">
+		<!-- <div class="section-title mt-5" data-aos="fade-up">
 				<h2>Board of<strong> Directors</strong></h2>
 			</div>
 
@@ -71,8 +71,8 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Feira Salsabila Nadyaputri.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+								<a href=""><i class="icofont-twitter"></i></a>
+								<a href=""><i class="icofont-facebook"></i></a> 
 								<a href="https://www.instagram.com/fei.slsbll/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/feira-salsabila-b5aa691b3/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -92,8 +92,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Matthew Aprianto.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+							
 								<a href="https://www.instagram.com/matthewrianto/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/matthew-aprianto-81430a1b2/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -113,8 +112,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Gandhi Dwiky Mohamad.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
+								
 								<a href="https://www.instagram.com/gandhiwicky/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -171,7 +169,7 @@
 				</div>
 
 
-			<!-- <div class="section-title mt-5" data-aos="fade-up">
+			 <div class="section-title mt-5" data-aos="fade-up">
 				<h2>Departement of <strong>Organizations</strong></h2>
 			</div>
 
@@ -382,7 +380,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div>  -->
 
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2>Departement of <strong>Research</strong></h2>
@@ -402,6 +400,9 @@
 						<div class="member-info">
 							<h4>James Xaverius Lemi</h4>
 							<span>Director of Research</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -421,6 +422,9 @@
 						<div class="member-info">
 							<h4>Immanuel Owen</h4>
 							<span>Capital Market Division</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -439,6 +443,9 @@
 						<div class="member-info">
 							<h4>Ryan Ricardo</h4>
 							<span>Banking &Finance Division</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -456,6 +463,9 @@
 						<div class="member-info">
 							<h4>Darren Putranto</h4>
 							<span>Corporate Law Division</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -474,6 +484,9 @@
 						<div class="member-info">
 							<h4>Alexius Krisnantyo</h4>
 							<span>Energy Mineral Division</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
@@ -490,18 +503,14 @@
 						<div class="member-info">
 							<h4>Michael Adrian Young</h4>
 							<span>Intelectual Property</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span>
 						</div>
 					</div>
-				</div> -->
+				</div> 
 </div>
 
-<hr color="#bdb21b" width="100%" size="75%">
-<div class="row d-flex justify-content-center">
-<a href="organizations"><button class="btn third">Departement of Organizations</button></a>
-
-<a href="research"><button class="btn third">Department of Research</button></a>
-</div>
-<!-- <a href="#" class="btn third">Button 3</a> -->
 			</div>
 		</div>
 

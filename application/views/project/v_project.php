@@ -46,7 +46,7 @@
       <div class="container" data-aos="fade-up">
         <div class="portfolio-details-container">
 
-        
+        <img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="" style="position:relative; width:350px;height:200px;">
 
         </div>
 
@@ -86,7 +86,7 @@
         <div class="portfolio-details-container">
 
        
-          <img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:320px;height:300px;">
+          <img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:300px;height:280px;">
     
         </div>
 

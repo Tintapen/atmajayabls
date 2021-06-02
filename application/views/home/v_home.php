@@ -5,7 +5,7 @@
 		<div class="carousel-inner" role="listbox">
 
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
 				<!-- <div class="carousel-container"> -->
 				<!-- <div class="carousel-content animate__animated animate__fadeInUp"> -->
 				<!-- <h2>Welcome to <span>Company</span></h2> -->
@@ -17,7 +17,7 @@
 			</div>
 
 			<!-- Slide 2 -->
-			<div class="carousel-item" style="background-image: url(assets/img/abls/Project.png);">
+			<div class="carousel-item" style="background-image: url(assets/img/abls/Project_rev.png);">
 				<div class="carousel-container">
 					<div class="carousel-content animate__animated animate__fadeInUp">
 						<h2>Project</h2>
