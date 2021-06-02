@@ -495,6 +495,7 @@
 				</div> -->
 </div>
 
+<hr color="#bdb21b" width="100%" size="75%">
 			</div>
 		</div>
 
