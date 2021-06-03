@@ -10,7 +10,7 @@
 					<ul>
 						<li <?php if ($this->uri->segment(1) == 'about') echo "class='active'"; ?>><a href="<?= base_url('about') ?>">About Us</a></li>
 						<li <?php if ($this->uri->segment(1) == 'division') echo "class='active'"; ?>><a href="<?= base_url('division') ?>">Divisions</a></li>
-						<li <?php if ($this->uri->segment(1) == 'nblc') echo "class='active'"; ?>><a href="<?= base_url('nblc') ?>">NBLC</a></li>
+						<!-- <li <?php if ($this->uri->segment(1) == 'nblc') echo "class='active'"; ?>><a href="<?= base_url('nblc') ?>">NBLC</a></li> -->
 						<li <?php if ($this->uri->segment(1) == 'contact') echo "class='active'"; ?>><a href="<?= base_url('contact') ?>">Contact Us</a></li>
 					</ul>
 				</li>
