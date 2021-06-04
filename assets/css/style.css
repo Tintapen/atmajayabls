@@ -22,6 +22,14 @@ a:hover {
   text-decoration: none;
 }
 
+a p {
+	color: #111
+}
+
+a:hover p {
+	color: #bdb21b;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
 }
