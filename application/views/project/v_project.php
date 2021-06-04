@@ -23,9 +23,18 @@
 					<img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="" style="position:relative; width:250px;height:140px;">
 					<p class="text-center">About NBLC Summit</p>
 				</a>
-				<a href="cla"><img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="" style="position:relative; width:260px;height:165px;"></a>
-				<a href="iloc"><img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:150px;height:135px;"></a>
-				<a href="ablc"><img src="assets/img/abls/ABLC.png" class="img-fluid" alt="" style="position:relative; width:150px;height:150px;"></a>
+				<a href="cla">
+				<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="" style="position:relative; width:260px;height:165px;">
+				<p class="text-center">Corporate Legal Academy</p>
+				</a>
+				<a href="iloc">
+				<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:150px;height:135px;">
+				<p class="text-center">Internal Legal Opinion Competition</p>
+				</a>
+				<a href="ablc">
+				<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="" style="position:relative; width:150px;height:150px;">
+				<p class="text-center">Atma Jaya Business Law Competition</p>
+				</a>
 			</div>
 			<!-- <div class="testimonial-item">
 				<img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="testimonial-img" alt="" style="position:relative; width:250px;height:140px;">
