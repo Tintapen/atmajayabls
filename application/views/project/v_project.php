@@ -1,52 +1,52 @@
 <main id="main">
-
 	<section id="breadcrumbs" class="breadcrumbs">
 		<div class="container">
-
 			<div class="d-flex justify-content-between align-items-center">
 				<h2>Project & Events</h2>
 			</div>
-
 		</div>
 	</section>
 
 	<section id="portfolio-details" class="portfolio-details">
 		<div class="container" data-aos="fade-up">
-
-
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2>Project & <strong>Events</strong></h2>
 			</div>
 
-			<div class="row d-flex justify-content-center">
-				<a href="nblc">
-					<img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="" style="position:relative; width:250px;height:140px;">
-					<p class="text-center">About NBLC Summit</p>
-				</a>
-				<a href="cla">
-				<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="" style="position:relative; width:260px;height:165px;">
-				<p class="text-center">Corporate Legal Academy</p>
-				</a>
-				<a href="iloc">
-				<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="position:relative; width:150px;height:135px;">
-				<p class="text-center">Internal Legal Opinion Competition</p>
-				</a>
-				<a href="ablc">
-				<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="" style="position:relative; width:150px;height:150px;">
-				<p class="text-center">Atma Jaya Business Law Competition</p>
-				</a>
+			<div class="row">
+				<div class="col text-center">
+					<a href="<?= base_url('nblc') ?>">
+						<div class="h-75 mb-auto">
+							<img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="About NBLC Summit">
+						</div>
+						<p>About NBLC Summit</p>
+					</a>
+				</div>
+				<div class="col text-center">
+					<a href="<?= base_url('cla') ?>">
+						<div class="h-75 mb-auto">
+							<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="Corporate Legal Academy">
+						</div>
+						<p>Corporate Legal Academy</p>
+					</a>
+				</div>
+				<div class="col text-center">
+					<a href="<?= base_url('iloc') ?>">
+						<div class="h-75 mb-auto">
+							<img src="assets/img/abls/3.png" class="img-fluid" alt="Internal Legal Opinion Competition">
+						</div>
+						<p>Internal Legal Opinion Competition</p>
+					</a>
+				</div>
+				<div class="col text-center">
+					<a href="<?= base_url('ablc') ?>">
+						<div class="h-75 mb-auto">
+							<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="">
+						</div>
+						<p>Atma Jaya Business Law Competition</p>
+					</a>
+				</div>
 			</div>
-			<!-- <div class="testimonial-item">
-				<img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="testimonial-img" alt="" style="position:relative; width:250px;height:140px;">
-				<h3>Saul Goodman</h3>
-				<h4>Ceo &amp; Founder</h4>
-				<p>
-					<i class="bx bxs-quote-alt-left quote-icon-left"></i>
-					Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-					<i class="bx bxs-quote-alt-right quote-icon-right"></i>
-				</p>
-			</div> -->
 		</div>
 	</section>
-
 </main>
