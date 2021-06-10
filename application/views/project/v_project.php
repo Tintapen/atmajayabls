@@ -41,7 +41,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('ablc') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="">
+							<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="Atma Jaya Business Law Competition">
 						</div>
 						<p>Atma Jaya Business Law Competition</p>
 					</a>
