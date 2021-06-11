@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #2ae149;
+  color: #bdb21b;
   text-decoration: none;
 }
 
@@ -934,13 +934,14 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-links a:hover {
-  color: #57e76f;
+  color: #bdb21b;
 }
 
 .portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
   bottom: 20px;
 }
+
 
 /*--------------------------------------------------------------
 # Clients
@@ -1734,7 +1735,7 @@ section {
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #1ed33c;
+  background: #bdb21b;
 }
 
 .blog .entry .entry-content h3 {
