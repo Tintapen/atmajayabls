@@ -11,10 +11,12 @@
 <main id="main">
 	<section id="about-us" class="about-us">
 		<div class="container" data-aos="fade-up">
+		<div class="section-title mt-5" data-aos="fade-up">
+				<h2><strong>Corporate Legal Academy</strong></h2>
+			</div>
 			<div class="row content">
 				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
-					<h2>Corporate Legal
-						Academy</h2>
+				<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="Corporate Legal Academy">
 
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
