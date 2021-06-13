@@ -4,6 +4,10 @@
 
 		<div class="carousel-inner" role="listbox">
 			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
+            <div class="hero-text">
+				<h1>
+            The 2nd Atma Jaya Business Law Competition 2021</h1>
+            </div>
 			</div>
 		</div>
 	</div>
@@ -17,7 +21,7 @@
 			</div>
 			<div class="row content">
 				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
-					<h2>About ABLC</h2>
+                <img src="assets/img/abls/ABLC.png" class="img-fluid" alt="Atma Jaya Business Law Competition">
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>

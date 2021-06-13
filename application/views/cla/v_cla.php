@@ -378,26 +378,5 @@
 		</div>
 	</section>
 
-	<!-- <div class="portfolio-description">
-		<h2>1. Drafting and Negotiating Commercial Contracts</h2><br>
-		<h2>2. Commercial Dispute Settlement</h2><br>
-		<h2>3. Problem of Suspension of Debt Payment Obligation</h2>
-		<h2>
-			and Bankruptcy for State-Owned Enterprises</h2><br>
-		<h2>4. Merger & Acquisition for Private Limited Liability Company</h2><br>
-		<h2>5. Foreign Investment Roadmap in Indonesia</h2><br>
-		<h2>6. Global Security Offering</h2><br>
-		<h2>7. Legal aspect of logistic process in international trade</h2><br>
-		<h2>8. The Role of World Trade Organization (WTO)
-			for</h2>
-		<h2>the Settlement of Trade Disputes</h2><br>
-		<h2>9. Joint Venture in Indonesia</h2><br>
-		<h2>10. Mining in Indonesia- Legal Overview</h2><br>
-		<h2>11. Legal Aspect in Real Estate Transactions and Development</h2><br>
-		<h2>12. Banking & Finance</h2><br>
-		<h2>13. Expatriate Regulation Overview in Indonesia</h2><br>
-		<h2>14. Legal Aspect of Mandatory Covertible Bond as Restructuring</h2>
-		<h2>Mechanism in Public Company</h2><br>
-
-	</div> -->
+	
 </main>

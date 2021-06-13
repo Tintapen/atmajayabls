@@ -4,6 +4,9 @@
 
 		<div class="carousel-inner" role="listbox">
 			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
+            <div class="hero-text">
+				<h1>Atma Jaya Internal Legal Opinion Competition 2021</h1>
+			</div>
 			</div>
 		</div>
 	</div>
@@ -13,11 +16,11 @@
 	<section id="about-us" class="about-us">
 		<div class="container" data-aos="fade-up">
         <div class="section-title mt-5" data-aos="fade-up">
-				<h2><strong>ILOC</strong></h2>
+				<h2><strong>Internal Legal Opinion Competition 2021</strong></h2>
 			</div>
 			<div class="row content">
 				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
-					<h2>About ILOC</h2>
+				<img src="assets/img/abls/3.png" class="img-fluid" alt="Internal Legal Opinion Competition">
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
