@@ -2,7 +2,7 @@
 	<div class="hero-image">
 		<div class="carousel-item active" style="background-image: url(assets/img/abls/cla/panitia.jpg);">
 			<div class="hero-text">
-				<h1>mau diisi apa ya aku binun nich ?????????????</h1>
+				<h1>Corporate Legal Academy</h1>
 			</div>
 		</div>
 	</div>
@@ -253,26 +253,123 @@
 			<div class="row portfolio-description">
 				<div class="col-5 col-sm-3">
 					<div class="nav flex-column nav-tabs h-100" id="vert-tabs-tab" role="tablist" aria-orientation="vertical">
-						<a class="nav-link active" id="vert-tabs-home-tab" data-toggle="pill" href="#vert-tabs-home" role="tab" aria-controls="vert-tabs-home" aria-selected="true">JAM 1</a>
-						<a class="nav-link" id="vert-tabs-profile-tab" data-toggle="pill" href="#vert-tabs-profile" role="tab" aria-controls="vert-tabs-profile" aria-selected="false">JAM 2</a>
-						<a class="nav-link" id="vert-tabs-messages-tab" data-toggle="pill" href="#vert-tabs-messages" role="tab" aria-controls="vert-tabs-messages" aria-selected="false">JAM 3</a>
-						<a class="nav-link" id="vert-tabs-settings-tab" data-toggle="pill" href="#vert-tabs-settings" role="tab" aria-controls="vert-tabs-settings" aria-selected="false">JAM 4</a>
+						<a class="nav-link active" id="vert-tabs-home-tab" data-toggle="pill" href="#vert-tabs-home" role="tab" aria-controls="vert-tabs-home" aria-selected="true">Day 1: Sat,13 March 2021</a>
+						<a class="nav-link" id="vert-tabs-profile-tab" data-toggle="pill" href="#vert-tabs-profile" role="tab" aria-controls="vert-tabs-profile" aria-selected="false">Day 2: Sat,20 March 2021 </a>
+						<a class="nav-link" id="vert-tabs-messages-tab" data-toggle="pill" href="#vert-tabs-messages" role="tab" aria-controls="vert-tabs-messages" aria-selected="false">Day 3: Sat,27 March 2021</a>
+						<a class="nav-link" id="vert-tabs-settings-tab" data-toggle="pill" href="#vert-tabs-settings" role="tab" aria-controls="vert-tabs-settings" aria-selected="false">Day 4: Sat,3 April 2021</a>
+						<a class="nav-link" id="vert-tabs-settings1-tab" data-toggle="pill" href="#vert-tabs-settings1" role="tab" aria-controls="vert-tabs-settings" aria-selected="false">Day 5: Sat,10 April 2021</a>
+						<a class="nav-link" id="vert-tabs-settings2-tab" data-toggle="pill" href="#vert-tabs-settings2" role="tab" aria-controls="vert-tabs-settings" aria-selected="false">Day 6: Sat,17 April 2021</a>
+						<a class="nav-link" id="vert-tabs-settings3-tab" data-toggle="pill" href="#vert-tabs-settings3" role="tab" aria-controls="vert-tabs-settings" aria-selected="false">Day 7: Sat,24 April 2021</a>
+						<a class="nav-link" id="vert-tabs-settings4-tab" data-toggle="pill" href="#vert-tabs-settings4" role="tab" aria-controls="vert-tabs-settings" aria-selected="false">Day 8: Sat,8 May 2021</a>
 					</div>
 				</div>
 				<div class="col-7 col-sm-9">
 					<div class="tab-content" id="vert-tabs-tabContent">
 						<div class="tab-pane text-left fade show active" id="vert-tabs-home" role="tabpanel" aria-labelledby="vert-tabs-home-tab">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada lacus ullamcorper dui molestie, sit amet congue quam finibus. Etiam ultricies nunc non magna feugiat commodo. Etiam odio magna, mollis auctor felis vitae, ullamcorper ornare ligula. Proin pellentesque tincidunt nisi, vitae ullamcorper felis aliquam id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id orci eu lectus blandit suscipit. Phasellus porta, ante et varius ornare, sem enim sollicitudin eros, at commodo leo est vitae lacus. Etiam ut porta sem. Proin porttitor porta nisl, id tempor risus rhoncus quis. In in quam a nibh cursus pulvinar non consequat neque. Mauris lacus elit, condimentum ac condimentum at, semper vitae lectus. Cras lacinia erat eget sapien porta consectetur.
+							<ul>
+							<li>
+							<b>1st Session 14:00-16:00</b>
+							</li>
+							
+							Drafting and Negotiating Commercial Contracts
+							</ul>
 						</div>
 						<div class="tab-pane fade" id="vert-tabs-profile" role="tabpanel" aria-labelledby="vert-tabs-profile-tab">
-							Mauris tincidunt mi at erat gravida, eget tristique urna bibendum. Mauris pharetra purus ut ligula tempor, et vulputate metus facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas sollicitudin, nisi a luctus interdum, nisl ligula placerat mi, quis posuere purus ligula eu lectus. Donec nunc tellus, elementum sit amet ultricies at, posuere nec nunc. Nunc euismod pellentesque diam.
+						<ul>
+							<li>
+							<b>1st Session 10:00-12:00</b>
+							</li>
+							Commercial Dispute Settlement
+						</ul>
+						<ul>
+							<li>
+							<b>2nd Session 14:00-16:00</b>
+							</li>
+							Problem of Suspension of Debt Payment Obligation<br>
+							and Bankruptcy for State-Owned Enterprises.
+							</ul>
 						</div>
 						<div class="tab-pane fade" id="vert-tabs-messages" role="tabpanel" aria-labelledby="vert-tabs-messages-tab">
-							Morbi turpis dolor, vulputate vitae felis non, tincidunt congue mauris. Phasellus volutpat augue id mi placerat mollis. Vivamus faucibus eu massa eget condimentum. Fusce nec hendrerit sem, ac tristique nulla. Integer vestibulum orci odio. Cras nec augue ipsum. Suspendisse ut velit condimentum, mattis urna a, malesuada nunc. Curabitur eleifend facilisis velit finibus tristique. Nam vulputate, eros non luctus efficitur, ipsum odio volutpat massa, sit amet sollicitudin est libero sed ipsum. Nulla lacinia, ex vitae gravida fermentum, lectus ipsum gravida arcu, id fermentum metus arcu vel metus. Curabitur eget sem eu risus tincidunt eleifend ac ornare magna.
+						<ul>
+							<li>
+							<b>1st Session 10:00-12:00</b>
+							</li>
+							Merger & Acquisition for Private Limited Liability Company
+						</ul>
+						<ul>
+							<li>
+							<b>2nd Session 14:00-16:00</b>
+							</li>
+							Foreign Investment Roadmap in Indonesia
+							</ul>
 						</div>
 						<div class="tab-pane fade" id="vert-tabs-settings" role="tabpanel" aria-labelledby="vert-tabs-settings-tab">
-							Pellentesque vestibulum commodo nibh nec blandit. Maecenas neque magna, iaculis tempus turpis ac, ornare sodales tellus. Mauris eget blandit dolor. Quisque tincidunt venenatis vulputate. Morbi euismod molestie tristique. Vestibulum consectetur dolor a vestibulum pharetra. Donec interdum placerat urna nec pharetra. Etiam eget dapibus orci, eget aliquet urna. Nunc at consequat diam. Nunc et felis ut nisl commodo dignissim. In hac habitasse platea dictumst. Praesent imperdiet accumsan ex sit amet facilisis.
+						<ul>
+							<li>
+							<b>1st Session 10:00-12:00</b>
+							</li>
+							Global Security Offering
+						</ul>
+						<ul>
+							<li>
+							<b>2nd Session 14:00-16:00</b>
+							</li>
+							Legal aspect of logistic process in international trade
+							</ul>
 						</div>
+						<div class="tab-pane fade" id="vert-tabs-settings1" role="tabpanel" aria-labelledby="vert-tabs-settings1-tab">
+						<ul>
+							<li>
+							<b>1st Session 10:00-12:00</b>
+							</li>
+							The Role of World Trade Organization (WTO)<br>
+							for the Settlement of Trade Disputes
+						</ul>
+						<ul>
+							<li>
+							<b>2nd Session 14:00-16:00</b>
+							</li>
+							Joint Venture in Indonesia
+							</ul>
+						</div>
+						<div class="tab-pane fade" id="vert-tabs-settings2" role="tabpanel" aria-labelledby="vert-tabs-settings2-tab">
+						<ul>
+							<li>
+							<b>1st Session 10:00-12:00</b>
+							</li>
+							Mining in Indonesia- Legal Overview
+						</ul>
+						</div>
+						<div class="tab-pane fade" id="vert-tabs-settings3" role="tabpanel" aria-labelledby="vert-tabs-settings3-tab">
+						<ul>
+							<li>
+							<b>1st Session 10:00-12:00</b>
+							</li>
+							Legal Aspect in Real Estate Transactions and Development
+						</ul>
+						<ul>
+							<li>
+							<b>2nd Session 14:00-16:00</b>
+							</li>
+							Banking & Finance
+							</ul>
+						</div>
+						<div class="tab-pane fade" id="vert-tabs-settings4" role="tabpanel" aria-labelledby="vert-tabs-settings4-tab">
+						<ul>
+							<li>
+							<b>1st Session 10:00-12:00</b>
+							</li>
+							Expatriate Regulation Overview in Indonesia
+						</ul>
+						<ul>
+							<li>
+							<b>2nd Session 14:00-16:00</b>
+							</li>
+							Legal Aspect of Mandatory Covertible Bond <br>
+							as Restructuring Mechanism in Public Company
+							</ul>
+						</div>
+
 					</div>
 				</div>
 			</div>
