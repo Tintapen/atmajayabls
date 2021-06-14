@@ -586,9 +586,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 1024px) {
-	#hero {
+	#hero .hero-image .carousel-item {
 		width: 100%;
-		height: 50vh;
+		height: 60vh;
 		background-color: rgba(0, 0, 0, 0.8);
 		overflow: hidden;
 		position: relative;
@@ -614,6 +614,26 @@ h1, h2, h3, h4, h5, h6 {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	color: #bdb21b;
+}
+
+@media (max-width: 1024px) {
+	#hero .hero-image .carousel-item {
+		width: 100%;
+		height: 55vh;
+		background-color: rgba(0, 0, 0, 0.8);
+		overflow: hidden;
+		position: relative;
+	}
+}
+
+@media (max-width: 740px) {
+	#hero .hero-image .carousel-item {
+		width: 100%;
+		height: 43vh;
+		background-color: rgba(0, 0, 0, 0.8);
+		overflow: hidden;
+		position: relative;
+	}
 }
 
 /*--------------------------------------------------------------
@@ -1097,6 +1117,115 @@ section {
 
 .team .member:hover .social {
   opacity: 1;
+}
+
+.col-md-3 {
+	display: inline-block;
+	margin-left: -4px;
+}
+
+.col-md-3 img {
+	width: 100%;
+	height: auto;
+}
+
+#team .carousel-indicators li {
+	cursor: pointer;
+	background: #fff;
+	overflow: hidden;
+	border: 0;
+	width: 12px;
+	height: 12px;
+	border-radius: 50px;
+	opacity: .6;
+	transition: 0.3s;
+}
+
+#team .carousel-indicators li.active {
+	opacity: 1;
+	background: #bdb21b;
+}
+
+#hero .carousel,
+#hero .carousel-inner,
+#hero .carousel-item,
+#hero .carousel-item::before {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+
+#hero .carousel-container {
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	position: absolute;
+	bottom: 60px;
+	top: 70px;
+	left: 105px;
+	right: 55px;
+}
+
+#hero .carousel-content {
+	background: rgba(4, 4, 4, 0.7);
+	padding: 20px;
+	color: #fff;
+	-webkit-animation-duration: .5s;
+	animation-duration: .5s;
+	border-top: 5px solid #bdb21b;
+}
+
+@media (min-width: 1024px) {
+	#team .carousel-content {
+		width: 60%;
+	}
+
+	#team .carousel-control-prev,
+	#team .carousel-control-next {
+		width: 5%;
+	}
+}
+
+
+@media (max-width: 992px) {
+	#team .carousel-container {
+		top: 58px;
+	}
+
+	#team .carousel-content h2 {
+		margin-bottom: 15px;
+		font-size: 22px;
+	}
+
+	#team .carousel-content p {
+		font-size: 15px;
+	}
+}
+
+@media (max-height: 500px) {
+	#team {
+		height: 120vh;
+	}
+}
+
+@media (max-width: 740px) {
+	#team .carousel-content p {
+		display: none;
+	}
+}
+
+#team .carousel-control-prev-icon,
+#team .carousel-control-next-icon {
+	background: none;
+	font-size: 36px;
+	line-height: 1;
+	width: auto;
+	height: auto;
+	padding: 10px;
+	transition: 0.3s;
+	color: rgb(189, 178, 27);
 }
 
 /*--------------------------------------------------------------
