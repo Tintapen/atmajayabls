@@ -59,30 +59,52 @@
  				<div class="container carousel-inner p-0">
  					<div class="carousel-item active">
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/Praniti.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/9.png') ?>" class="img-fluid">
  						</div>
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/Ivor.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/3.png') ?>" class="img-fluid">
  						</div>
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/GS-BW-002.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/6.png') ?>" class="img-fluid">
  						</div>
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/GS-BW-006.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/1.png') ?>" class="img-fluid">
  						</div>
  					</div>
  					<div class="carousel-item">
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/Praniti.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/7.png') ?>" class="img-fluid">
  						</div>
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/Ivor.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/2.png') ?>" class="img-fluid">
  						</div>
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/GS-BW-002.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/4.png') ?>" class="img-fluid">
  						</div>
  						<div class="col-xs-3 col-sm-3 col-md-3">
- 							<img src="<?= base_url('assets/img/abls/cla/GS-BW-006.jpg') ?>" class="img-fluid">
+ 							<img src="<?= base_url('assets/img/abls/cla/8.png') ?>" class="img-fluid">
+ 						</div>
+ 					</div>
+					 <div class="carousel-item">
+ 						<div class="col-xs-3 col-sm-3 col-md-3">
+ 							<img src="<?= base_url('assets/img/abls/cla/5.png') ?>" class="img-fluid">
+ 						</div>
+ 						<div class="col-xs-3 col-sm-3 col-md-3">
+ 							<img src="<?= base_url('assets/img/abls/cla/10.png') ?>" class="img-fluid">
+ 						</div>
+ 						<div class="col-xs-3 col-sm-3 col-md-3">
+ 							<img src="<?= base_url('assets/img/abls/cla/11.png') ?>" class="img-fluid">
+ 						</div>
+ 						<div class="col-xs-3 col-sm-3 col-md-3">
+ 							<img src="<?= base_url('assets/img/abls/cla/14.png') ?>" class="img-fluid">
+ 						</div>
+ 					</div>
+					 <div class="carousel-item">
+ 						<div class="col-xs-3 col-sm-3 col-md-3">
+ 							<img src="<?= base_url('assets/img/abls/cla/13.png') ?>" class="img-fluid">
+ 						</div>
+ 						<div class="col-xs-3 col-sm-3 col-md-3">
+ 							<img src="<?= base_url('assets/img/abls/cla/12.png') ?>" class="img-fluid">
  						</div>
  					</div>
  				</div>
@@ -425,4 +447,62 @@
  			</div>
  		</div>
  	</section>
+
+	 <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+	  <div class="section-title mt-5" data-aos="fade-up">
+ 				<h2><strong>Gallery</strong></h2>
+ 			</div>
+	  <div class="row portfolio-container" data-aos="fade-up">
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0055.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0092.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0109.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0188.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0191.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0207.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0212.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" class="img-fluid" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" class="img-fluid" alt="">
+			</div>
+
+</div>
+</section>
  </main>
