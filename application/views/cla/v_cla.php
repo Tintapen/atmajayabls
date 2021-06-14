@@ -54,6 +54,7 @@
  					<li data-target="#speaker" data-slide-to="0" class="active"></li>
  					<li data-target="#speaker" data-slide-to="1"></li>
  					<li data-target="#speaker" data-slide-to="2"></li>
+					<li data-target="#speaker" data-slide-to="3"></li>
  				</ul>
 
  				<div class="container carousel-inner p-0">
@@ -451,58 +452,76 @@
 	 <section id="portfolio" class="portfolio section-bg">
       <div class="container">
 	  <div class="section-title mt-5" data-aos="fade-up">
- 				<h2><strong>Gallery</strong></h2>
+ 				<h2><strong>CLA's Documentaries</strong></h2>
  			</div>
 	  <div class="row portfolio-container" data-aos="fade-up">
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<a href="assets/img/abls/cla/Gallery CLA/DSC_0055.png" data-gall="portfolioGallery" class="venobox preview-link">
 			<img src="assets/img/abls/cla/Gallery CLA/DSC_0055.png" class="img-fluid" alt="">
+			</a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<a href="assets/img/abls/cla/Gallery CLA/DSC_0092.png" data-gall="portfolioGallery" class="venobox preview-link">
 			<img src="assets/img/abls/cla/Gallery CLA/DSC_0092.png" class="img-fluid" alt="">
+			</a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<a href="assets/img/abls/cla/Gallery CLA/DSC_0109.png" data-gall="portfolioGallery" class="venobox preview-link">
 			<img src="assets/img/abls/cla/Gallery CLA/DSC_0109.png" class="img-fluid" alt="">
+			</a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<a href="assets/img/abls/cla/Gallery CLA/DSC_0188.png" data-gall="portfolioGallery" class="venobox preview-link">
 			<img src="assets/img/abls/cla/Gallery CLA/DSC_0188.png" class="img-fluid" alt="">
+			</a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
+			<a href="assets/img/abls/cla/Gallery CLA/DSC_0191.png" data-gall="portfolioGallery" class="venobox preview-link">
 			<img src="assets/img/abls/cla/Gallery CLA/DSC_0191.png" class="img-fluid" alt="">
+		</a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0207.png" class="img-fluid" alt="">
+			<a href="assets/img/abls/cla/Gallery CLA/DSC_0207.png" data-gall="portfolioGallery" class="venobox preview-link">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0207.png" class="img-fluid" alt=""></a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0212.png" class="img-fluid" alt="">
+			<a href="assets/img/abls/cla/Gallery CLA/DSC_0212.png" data-gall="portfolioGallery" class="venobox preview-link">
+			<img src="assets/img/abls/cla/Gallery CLA/DSC_0212.png" class="img-fluid" alt=""></a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" class="img-fluid" alt="">
+			<a href="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" data-gall="portfolioGallery" class="venobox preview-link">
+			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" class="img-fluid" alt=""></a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" class="img-fluid" alt="">
+			<a href="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" data-gall="portfolioGallery" class="venobox preview-link">
+			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" class="img-fluid" alt=""></a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" class="img-fluid" alt="">
+			<a href="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" data-gall="portfolioGallery" class="venobox preview-link">
+			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" class="img-fluid" alt=""></a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" class="img-fluid" alt="">
+			<a href="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" data-gall="portfolioGallery" class="venobox preview-link">
+			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" class="img-fluid" alt=""></a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" class="img-fluid" alt="">
+			<a href="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" data-gall="portfolioGallery" class="venobox preview-link">
+			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" class="img-fluid" alt=""></a>
 			</div>
-
+			
 </div>
+
 </section>
  </main>

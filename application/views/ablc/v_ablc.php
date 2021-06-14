@@ -5,8 +5,8 @@
 		<div class="carousel-inner" role="listbox">
 			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
             <div class="hero-text">
-				<h1>
-            The 2nd Atma Jaya Business Law Competition 2021</h1>
+				<h2>
+            The 2nd Atma Jaya Business Law Competition 2021</h2>
             </div>
 			</div>
 		</div>
