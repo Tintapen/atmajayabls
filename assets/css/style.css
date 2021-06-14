@@ -380,18 +380,29 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
 }
+
 .btn:hover, .btn:focus {
   color: #fff;
   outline: 0;
 }
-.third {
-  border-color: #bdb21b;
-  color: #fff;
-  box-shadow: 0 0 40px 40px #bdb21b inset, 0 0 0 0 #bdb21b;
-  transition: all 150ms ease-in-out;
+
+.btn-gold {
+	color: #fff;
+	background-color: #bdb21b;
+	border-color: #bdb21b;
 }
-.third:hover {
-  box-shadow: 0 0 10px 0 #bdb21b inset, 0 0 10px 4px #bdb21b;
+
+.btn-gold:hover {
+	color: #fff;
+	box-shadow: 0 0 10px 0 #bdb21b inset, 0 0 10px 4px #bdb21b;
+}
+
+.btn-gold:focus,
+.btn-gold.focus {
+	color: #fff;
+	background-color: #bdb21b;
+	border-color: #bdb21b;
+	box-shadow: 0 0 0 0.2rem rgb(189, 178, 27);
 }
 
 /*--------------------------------------------------------------

@@ -1,5 +1,4 @@
 <main id="main">
-
 	<!-- ======= Breadcrumbs ======= -->
 	<section id="breadcrumbs" class="breadcrumbs">
 		<div class="container">
@@ -19,18 +18,18 @@
 	<section id="team" class="team section-bg">
 		<div class="container">
 
-		<div class="section-title mt-5" data-aos="fade-up">
+			<div class="section-title mt-5" data-aos="fade-up">
 				<h2>Board of<strong> Directors</strong></h2>
 			</div>
 
-	
+
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up">
 						<div class="member-img">
 							<img src="assets/img/abls/Albima Rangga Setiyawan.png" class="img-fluid" alt="">
 							<div class="social">
-							
+
 								<a href="https://www.instagram.com/albimarangga/ "><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/albima-rangga-setiyawan-501b531b5/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -47,7 +46,7 @@
 			</div>
 
 			<div class="row d-flex justify-content-center">
-			<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="400">
 						<div class="member-img">
 							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
@@ -58,7 +57,7 @@
 						</div>
 						<div class="member-info">
 							<h4>James Xaverius Lemi</h4>
-							<span>Director of Research</span> 
+							<span>Director of Research</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span>
@@ -116,7 +115,7 @@
 						<div class="member-info">
 							<h4>Gandhi Dwiky Mohamad</h4>
 							<span>Director of Organizations</Span>
-							 <span>of</span>
+							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span>
 						</div>
@@ -130,7 +129,7 @@
 						<div class="member-img">
 							<img src="assets/img/abls/Hanurita Ayu Widyasti.png" class="img-fluid" alt="">
 							<div class="social">
-								
+
 								<a href="https://www.instagram.com/hanuritaaa/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -165,14 +164,12 @@
 				</div>
 			</div>
 
-	<hr color="#bdb21b" width="100%" size="75%">
-				<div class="row d-flex justify-content-center">
-			<a href="organizations"><button class="btn third">Departement of Organizations</button></a>
-			<a href="research"><button class="btn third">Department of Research</button></a>
-				</div>
+			<hr color="#bdb21b" width="100%" size="75%">
+			<div class="row d-flex justify-content-center">
+				<a href="<?= base_url('organizations') ?>" class="btn btn-gold">Departement of Organizations</a>
+				<a href="<?= base_url('research') ?>" class="btn btn-gold">Department of Research</a>
 			</div>
 		</div>
-
 	</section><!-- End Our Team Section -->
 
 </main><!-- End #main -->
