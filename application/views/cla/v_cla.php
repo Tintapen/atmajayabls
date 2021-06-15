@@ -483,7 +483,7 @@
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
 			<a href="assets/img/abls/cla/Gallery CLA/DSC_0191.png" data-gall="portfolioGallery" class="venobox preview-link">
 			<img src="assets/img/abls/cla/Gallery CLA/DSC_0191.png" class="img-fluid" alt="">
-		</a>
+			</a>
 			</div>
 
 			<div class="col-lg-4 col-md-6 portfolio-item filter">
