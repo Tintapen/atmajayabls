@@ -322,30 +322,33 @@
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="">
-						<!-- <p>Corporate Legal Academy </p> -->
-					</div>
-
-				</div>
-
-				<div class="col-lg-3 col-md-4 col-6">
-					<div class="client-logo">
-						<img src="assets/img/abls/NBLC.png" class="img-fluid" alt="">
+					<a href="<?= base_url('nblc') ?>">
+						<img src="assets/img/abls/NBLC.png" class="img-fluid" alt=""></a>
 						<!-- <p>NBLC Summit</p> -->
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="">
-						<!-- <p>Atma Jaya Business Law Competition</p> -->
+					<a href="<?= base_url('cla') ?>">
+						<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt=""></a>
+						<!-- <p>Corporate Legal Academy </p> -->
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:75px;height:70px;">
+					<a href="<?= base_url('iloc') ?>">
+						<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:75px;height:70px;"></a>
 						<!-- <p>Atma Jaya Internal Legal Opinion Competition</p> -->
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-6">
+					<div class="client-logo">
+					<a href="<?= base_url('ablc') ?>">
+						<img src="assets/img/abls/ABLC.png" class="img-fluid" alt=""></a>
+						<!-- <p>Atma Jaya Business Law Competition</p> -->
 					</div>
 				</div>
 
