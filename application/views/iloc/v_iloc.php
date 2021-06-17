@@ -103,7 +103,7 @@
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2><strong>ILOC's Documentaries</strong></h2>
 			</div>
-			<div class="row portfolio-container" data-aos="fade-up">
+			<!-- <div class="row portfolio-container" data-aos="fade-up">
 
 				<div class="col-lg-4 col-md-6 portfolio-item filter">
 					<a href="<?= base_url('assets/img/abls/iloc/Screenshot(64).png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
@@ -138,6 +138,14 @@
 				<div class="col-lg-4 col-md-6 portfolio-item filter">
 					<a href="assets/img/abls/iloc/Screenshot (387).png" data-gall="portfolioGallery" class="venobox preview-link">
 						<img src="assets/img/abls/iloc/Screenshot (387).png" class="img-fluid" alt=""></a>
+				</div>
+			</div> -->
+			<div class="row portfolio-container" data-aos="fade-up">
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/cla/Gallery CLA/DSC_0055.png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/cla/Gallery CLA/DSC_0055.png" class="img-fluid" alt="">
+					</a>
 				</div>
 			</div>
 
