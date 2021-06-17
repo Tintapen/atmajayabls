@@ -143,8 +143,8 @@
 			<div class="row portfolio-container" data-aos="fade-up">
 
 				<div class="col-lg-4 col-md-6 portfolio-item filter">
-					<a href="assets/img/abls/iloc/DSC64.png" data-gall="portfolioGallery" class="venobox preview-link">
-						<img src="assets/img/abls/iloc/DSC64.png" class="img-fluid" alt="">
+					<a href="assets/img/abls/iloc/gallery/DSC64.png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/gallery/DSC64.png" class="img-fluid" alt="">
 					</a>
 				</div>
 			</div>
