@@ -4,9 +4,9 @@
 
 		<div class="carousel-inner" role="listbox">
 			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
-            <div class="hero-text">
-				<h2>Atma Jaya Internal Legal Opinion Competition 2021</h2>
-			</div>
+				<div class="hero-text">
+					<h2>Atma Jaya Internal Legal Opinion Competition 2021</h2>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -15,12 +15,12 @@
 <main id="main">
 	<section id="about-us" class="about-us">
 		<div class="container" data-aos="fade-up">
-        <div class="section-title mt-5" data-aos="fade-up">
+			<div class="section-title mt-5" data-aos="fade-up">
 				<h2><strong>Internal Legal Opinion Competition 2021</strong></h2>
 			</div>
 			<div class="row content">
 				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
-				<img src="assets/img/abls/3.png" class="img-fluid" alt="Internal Legal Opinion Competition">
+					<img src="assets/img/abls/3.png" class="img-fluid" alt="Internal Legal Opinion Competition">
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
@@ -98,48 +98,48 @@
 
 </section> -->
 
-<section id="portfolio" class="portfolio">
-      <div class="container">
-	  <div class="section-title mt-5" data-aos="fade-up">
- 				<h2><strong>ILOC's Documentaries</strong></h2>
- 			</div>
-	  <div class="row portfolio-container" data-aos="fade-up">
+	<section id="portfolio" class="portfolio">
+		<div class="container">
+			<div class="section-title mt-5" data-aos="fade-up">
+				<h2><strong>ILOC's Documentaries</strong></h2>
+			</div>
+			<div class="row portfolio-container" data-aos="fade-up">
 
-	  <div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/iloc/Screenshot (64).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/iloc/Screenshot (64).png" class="img-fluid" alt=""></a>
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="<?= base_url('assets/img/abls/iloc/Screenshot(64).png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="<?= base_url('assets/img/abls/iloc/Screenshot(64).png') ?>" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/Screenshot (69).png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/Screenshot (69).png" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/Screenshot (70).png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/Screenshot (70).png" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/Screenshot (350).png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/Screenshot (350).png" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/Screenshot (367).png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/Screenshot (367).png" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/Screenshot (379).png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/Screenshot (379).png" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/Screenshot (387).png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/Screenshot (387).png" class="img-fluid" alt=""></a>
+				</div>
 			</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/iloc/Screenshot (69).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/iloc/Screenshot (69).png" class="img-fluid" alt=""></a>
-			</div>
-			
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/iloc/Screenshot (70).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/iloc/Screenshot (70).png" class="img-fluid" alt=""></a>
-			</div>
-
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/iloc/Screenshot (350).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/iloc/Screenshot (350).png" class="img-fluid" alt=""></a>
-			</div>
-
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/iloc/Screenshot (367).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/iloc/Screenshot (367).png" class="img-fluid" alt=""></a>
-			</div>
-
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/iloc/Screenshot (379).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/iloc/Screenshot (379).png" class="img-fluid" alt=""></a>
-			</div>
-
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/iloc/Screenshot (387).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/iloc/Screenshot (387).png" class="img-fluid" alt=""></a>
-			</div>
-</div>
-
-</section>
+	</section>
 </main>
