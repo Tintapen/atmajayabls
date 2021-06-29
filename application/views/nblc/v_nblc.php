@@ -24,25 +24,58 @@
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
-						ABLS is a business law society in Atma Jaya Chatolic University of Indonesia.
-						We are the only organization in Atma Jaya Chatolic University of Indonesia that
-						provide and train college students in Economics and Business Law. Why business law?
-						Indonesia is facing Asean Economic Community, AFTA, and etc. Because of these,
-						we are here to prepare college students to be professional person,
-						especially to be a great corporate lawyer.
+					NBLC Summit is a forum event of official and unofficial members, which consist of 
+					Accountability report within one period, recruitment of official members of NBLC and 
+					establishment of new officers for the next period. This event aims to: 
 					</p>
-
-					<p>
-						We develop college students’ skill through training, workshop, seminar, and
-						also business law competition. Our goal is to prepare college students
-						to be an intelligent person that is useful to face real-world in law firm.
-					</p>
-					<p>
-						ABLS formed in 2014 by the founders. They are Albertus Andhika, Andonius
-						Simanjorang, Angela Yogiana, Arvin Raharja, Peter Pendowo, Selfi, and Yoanna
-						Syvia Dessyadventia Ben.</p>
+					<ul>
+						<li><i class="ri-check-double-line"></i>To increase the efficiency and effectiveness of upcoming activities.</li>
+						<li><i class="ri-check-double-line"></i>To increase and explore the potential of human resource capabilities in the realm of the organization.</li>
+						<li><i class="ri-check-double-line"></i>Realizing the potential and improving the quality in terms of activities and human resources in the realm of the organization.
+</li>
+					</ul>
 				</div>
 			</div>
+		</div>
+	</section>
+
+	<section id="about-us" class="about-us section-bg">
+		<div class="container" data-aos="fade-up">
+
+			<div class="section-title">
+				<h2>About NBLC</strong></h2>
+			</div>
+
+			<div class="row content">
+				<div class="col-lg-6" data-aos="fade-right">
+					<h2>National Business Law Community</h2>
+					<p>	National Business Law Community (NBLC) is a non-profit organization that isn’t  affiliated with 
+					any political group that consist of business law student organizations from various universities 
+					across Indonesia. NBLC was declared during the first BLS Summit in 2015. The point of declaration 
+					was to initiate a national community consisting of existing business law students organizations 
+					across Indonesia. NBLC was officially established during  the 4th BLS Summit in 2018 by four universities, 
+					namely BLS FH UI, ABLS, BLC FH UB, and BLC FH UII. NBLC was restructured during the 6th NBLC Summit in 2021 
+					which sets a new approach towards the overall management of NBLC itself by applying a </p>
+				</div>
+				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
+				<p>  Person In 
+					Charge system from each members to fill positions as The Board of NBLC. By that, we envision NBLC to 
+					build a strong relationship between business law student organization and  provide benefits for member 
+					and society through NBLC work programs. 
+				</p>
+					<p>
+					NBLC visions is to making NBLC a national community that focuses on building  networks between 
+					Business Law Student Organizations, increasing legal potential and expertise and providing benefits 
+					to its members and Indonesia. And NBLC’s mission is: 
+					</p>
+					<ul>
+						<li><i class="ri-check-double-line"></i>Become a forum for members to develop hard skills and soft skills.</li>
+						<li><i class="ri-check-double-line"></i>Establishing an effective and efficient organizational climate among all NBLC  members.</li>
+						<li><i class="ri-check-double-line"></i>Optimizing benefits for all NBLC members and the general public through the  implementation and development of work programs.</li>
+					</ul>
+				</div>
+			</div>
+
 		</div>
 	</section>
 

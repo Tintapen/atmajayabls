@@ -3,7 +3,7 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/iloc/BANNER ILOC (LOGO).png);">
 				<div class="hero-text">
 					<h2>Atma Jaya Internal Legal Opinion Competition 2021</h2>
 				</div>
@@ -24,23 +24,24 @@
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
-						ABLS is a business law society in Atma Jaya Chatolic University of Indonesia.
-						We are the only organization in Atma Jaya Chatolic University of Indonesia that
-						provide and train college students in Economics and Business Law. Why business law?
-						Indonesia is facing Asean Economic Community, AFTA, and etc. Because of these,
-						we are here to prepare college students to be professional person,
-						especially to be a great corporate lawyer.
+					Internal Legal Opinion Competition or hereinafter referred to as ILOC is a business 
+					law-based competition that aims to be a forum for all law faculty students at UNIKA 
+					Atma Jaya Semanggi and BSD to hone their insights about business law. ILOC is a work 
+					program of the Atmajaya Business Law Society (ABLS), and is the first competition event 
+					internal legal opinion since ABLS was founded, and will become one of ABLS' annual programs. 
+					This year, ILOC's work program is a competition legal opinion which is open to law students 
+					at Atma Jaya Chatolic University of Indonesia. This year, ILOC held an activity with the theme 
+					“Resolution to a Project of Government Cooperation with Business Entities''. 
 					</p>
 
 					<p>
-						We develop college students’ skill through training, workshop, seminar, and
-						also business law competition. Our goal is to prepare college students
-						to be an intelligent person that is useful to face real-world in law firm.
+					The purpose of this event is to improve students' ability to make legal opinions, 
+					improve communication between law students at UNIKA Atma Jaya, increase awareness of 
+					business law cases to students in particular and society in general, increase a sense 
+					of brotherhood, kinship, and bilateral relations between students, and provide the 
+					understanding and the ability to act in response to problems related to the impact of 
+					the economic recession in the infrastructure development sector. 
 					</p>
-					<p>
-						ABLS formed in 2014 by the founders. They are Albertus Andhika, Andonius
-						Simanjorang, Angela Yogiana, Arvin Raharja, Peter Pendowo, Selfi, and Yoanna
-						Syvia Dessyadventia Ben.</p>
 				</div>
 			</div>
 		</div>
@@ -98,7 +99,7 @@
 
 </section> -->
 
-	<section id="portfolio" class="portfolio">
+	<section id="portfolio" class="portfolio section-bg">
 		<div class="container">
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2><strong>ILOC's Documentaries</strong></h2>

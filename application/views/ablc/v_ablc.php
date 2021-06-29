@@ -3,7 +3,7 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/ablc/ABLC BANNER.png);">
             <div class="hero-text">
 				<h2>
             The 2nd Atma Jaya Business Law Competition 2021</h2>
@@ -25,23 +25,26 @@
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
-						ABLS is a business law society in Atma Jaya Chatolic University of Indonesia.
-						We are the only organization in Atma Jaya Chatolic University of Indonesia that
-						provide and train college students in Economics and Business Law. Why business law?
-						Indonesia is facing Asean Economic Community, AFTA, and etc. Because of these,
-						we are here to prepare college students to be professional person,
-						especially to be a great corporate lawyer.
+					Atma Jaya Business Law Competition, hereinafter referred to as ABLC, is a business law-based 
+					competition that aims to become a forum for all law students from all over Indonesia to hone 
+					their knowledge about business law. ABLC is a work program of the Atma Jaya Business Law Society (ABLS) 
+					Faculty of Law, Atma Jaya Catholic University, and is the second year competition since 
+					Atma Jaya Business Law Society was founded, and will be an ongoing competition held every year. 
+					ABLC has a work program, namely webinars, contract drafting competitions, and legal opinion competitions 
+					which are open to law faculty students throughout Indonesia. This year, Atma Jaya Business Law Competition 
+					held an activity with the theme “Legal Aspect of Indonesia's Mining and Resources Procurement”. 
 					</p>
 
 					<p>
-						We develop college students’ skill through training, workshop, seminar, and
-						also business law competition. Our goal is to prepare college students
-						to be an intelligent person that is useful to face real-world in law firm.
+					ABLC 2021 Vision and Mission: 
 					</p>
-					<p>
-						ABLS formed in 2014 by the founders. They are Albertus Andhika, Andonius
-						Simanjorang, Angela Yogiana, Arvin Raharja, Peter Pendowo, Selfi, and Yoanna
-						Syvia Dessyadventia Ben.</p>
+					<ul>
+						<li><i class="ri-check-double-line"></i>Improving the ability of students to make contract drafting and legal opinions.</li>
+						<li><i class="ri-check-double-line"></i>Improving communication between law faculty students from various universities in Indonesia. </li>
+						<li><i class="ri-check-double-line"></i>Increase legal awareness in this case business law to students in particular and society in general.</li>
+						<li><i class="ri-check-double-line"></i>Increase the sense of brotherhood, kinship, and bilateral relations between universities.</li>
+						<li><i class="ri-check-double-line"></i>Provide understanding and ability to act in responding to problems related to legal aspects in mining and natural resources in Indonesia.</li>
+					</ul>
 				</div>
 			</div>
 		</div>

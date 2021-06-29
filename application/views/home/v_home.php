@@ -85,11 +85,6 @@
 						we are here to prepare college students to be professional person,
 						especially to be a great corporate lawyer.
 					</p>
-					<!-- <ul>
-						<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
-						<li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-						<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
-					</ul> -->
 					<p>
 						We develop college students’ skill through training, workshop, seminar, and
 						also business law competition. Our goal is to prepare college students
