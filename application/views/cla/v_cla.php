@@ -49,7 +49,7 @@
  				<h2>Speaker<strong> List</strong></h2>
  			</div>
 
- 			<div id="speaker" class="row carousel slide" data-ride="carousel">
+ 			<div id="speaker" class="row carousel slide" data-ride="carousel" data-aos="fade-left">
  				<ul class="carousel-indicators">
  					<li data-target="#speaker" data-slide-to="0" class="active"></li>
  					<li data-target="#speaker" data-slide-to="1"></li>
