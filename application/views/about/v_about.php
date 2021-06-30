@@ -15,7 +15,7 @@
 	<section id="about-us" class="about-us">
 		<div class="container" data-aos="fade-up">
 
-			<div class="row content">
+			<div class="row content text-justify">
 				<div class="col-lg-6" data-aos="fade-right">
 					<h2>Atma Jaya BLS</h2>
 					<p>Atma Jaya Business Law Society (“ABLS”) is a business law-based organization
@@ -83,8 +83,8 @@
 			</div>
 
 			<div class="row d-flex justify-content-center">
-			<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="400">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="700">
 						<div class="member-img">
 							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
 							<div class="social">
@@ -94,22 +94,18 @@
 						</div>
 						<div class="member-info">
 							<h4>James Xaverius Lemi</h4>
-							<span>Director of Research</span> 
+							<span>Director of Research</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
-
-			
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="100">
+					<div class="member" data-aos="fade-up" data-aos-delay="500">
 						<div class="member-img">
 							<img src="assets/img/abls/Feira Salsabila Nadyaputri.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
 								<a href="https://www.instagram.com/fei.slsbll/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/feira-salsabila-b5aa691b3/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -125,12 +121,10 @@
 				</div>
 
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="200">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/Matthew Aprianto.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
 								<a href="https://www.instagram.com/matthewrianto/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/matthew-aprianto-81430a1b2/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -146,12 +140,10 @@
 				</div>
 
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<div class="member" data-aos="fade-up" data-aos-delay="100">
 						<div class="member-img">
 							<img src="assets/img/abls/Gandhi Dwiky Mohamad.png" class="img-fluid" alt="">
 							<div class="social">
-								<!-- <a href=""><i class="icofont-twitter"></i></a>
-								<a href=""><i class="icofont-facebook"></i></a> -->
 								<a href="https://www.instagram.com/gandhiwicky/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -159,13 +151,12 @@
 						<div class="member-info">
 							<h4>Gandhi Dwiky Mohamad</h4>
 							<span>Director of Organizations</Span>
-							 <span>of</span>
+							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span>
 						</div>
 					</div>
 				</div>
-			
 			</div>
 		</div>
 	</section>
