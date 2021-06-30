@@ -46,7 +46,37 @@
 			</div>
 		</div>
 	</section>
+
 	<section id="portfolio" class="portfolio section-bg">
+		<div class="container">
+			<div class="section-title mt-5" data-aos="fade-up">
+				<h2><strong>ILOC's Winner</strong></h2>
+			</div>
+			<div class="row portfolio-container" data-aos="fade-up">
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="<?= base_url('assets/img/abls/iloc/4.png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="<?= base_url('assets/img/abls/iloc/4.png') ?>" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/3.png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/3.png" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/2.png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/2.png" class="img-fluid" alt=""></a>
+				</div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter">
+					<a href="assets/img/abls/iloc/5.png" data-gall="portfolioGallery" class="venobox preview-link">
+						<img src="assets/img/abls/iloc/5.png" class="img-fluid" alt=""></a>
+				</div>
+			</div>
+	</section>
+
+	<section id="portfolio" class="portfolio">
 		<div class="container">
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2><strong>ILOC's Documentaries</strong></h2>
