@@ -19,7 +19,7 @@
  					<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="Corporate Legal Academy">
 
  				</div>
- 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
+ 				<div class="col-lg-6 pt-4 pt-lg-0 text-justify" data-aos="fade-left">
  					<p>
  						Corporate Legal Academy (“CLA”) was found in 2020 by the Board of Management
  						Atma Jaya Business Law Society (“ABLS”)2019/2020 in order to strengthen our
@@ -54,7 +54,7 @@
  					<li data-target="#speaker" data-slide-to="0" class="active"></li>
  					<li data-target="#speaker" data-slide-to="1"></li>
  					<li data-target="#speaker" data-slide-to="2"></li>
-					<li data-target="#speaker" data-slide-to="3"></li>
+ 					<li data-target="#speaker" data-slide-to="3"></li>
  				</ul>
 
  				<div class="container carousel-inner p-0">
@@ -86,7 +86,7 @@
  							<img src="<?= base_url('assets/img/abls/cla/8.png') ?>" class="img-fluid">
  						</div>
  					</div>
-					 <div class="carousel-item">
+ 					<div class="carousel-item">
  						<div class="col-xs-3 col-sm-3 col-md-3">
  							<img src="<?= base_url('assets/img/abls/cla/5.png') ?>" class="img-fluid">
  						</div>
@@ -100,7 +100,7 @@
  							<img src="<?= base_url('assets/img/abls/cla/14.png') ?>" class="img-fluid">
  						</div>
  					</div>
-					 <div class="carousel-item">
+ 					<div class="carousel-item">
  						<div class="col-xs-3 col-sm-3 col-md-3">
  							<img src="<?= base_url('assets/img/abls/cla/13.png') ?>" class="img-fluid">
  						</div>
@@ -119,201 +119,6 @@
  					<span class="sr-only">Next</span>
  				</a>
  			</div>
-
- 			<!-- <div class="row d-flex justify-content-center">
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Praniti.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Praniti Putri Mirza, S.H.</h4>
-							<span>Legal Counsel at ADCO Law</span>
-						</div>
-					</div>
-				</div>
-
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="400">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Ivor.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Ivor Pasaribu, S.H., M.H.</h4>
-							<span>Partner at Leks & Co Lawyers</span>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="100">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/GS-BW-002.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Sony El Mars, S.H.</h4>
-							<span>Senior Associate</span>
-							<span>at</span>
-							<span>Siregar Setiawan</span>
-							<span>Manalu Partnership</span>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="200">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/GS-BW-006.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Albertus Andhika, S.H., M.I.B.</h4>
-							<span>Senior Associate</span>
-							<span>At</span>
-							<span>Mochtar Karuwin</span>
-							<span>Komar Law Firm</span>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/GS-BW-004.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Merari Sabati, S.H., LL.M.</h4>
-							<span>Partner at Arma Law</Span>
-
-						</div>
-					</div>
-				</div>
-
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Andrew New.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Mohammad Andrew, S.H.</h4>
-							<span>Counsel</span>
-							<span>at</span>
-							<span>Ginting & Reksodiputro in</span>
-							<span>association with Allen Overy LLP</span>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/GS-BW-001.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Aryo Baskoro, S.H., LL.M.</h4>
-							<span>Managing Partner at Arma Law</span>
-
-						</div>
-					</div>
-				</div>
-
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/GS-BW-003.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Dewi Sekar Arum, S.H., LL.M.</h4>
-							<span>Partner at Arma Law</span>
-
-						</div>
-					</div>
-				</div>
-
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/ivan-nugroho.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Ivan Nugroho, S.H., LL.M</h4>
-							<span>Partner at ANSS Counsellor at Law</span>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Puji.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Puji Atma, S.H.,LL.M</h4>
-							<span>Partner at Melli Darsa & Co.</span>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Stephen.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Stephen Igor Warroka, S.H.,LL.M</h4>
-							<span>Partner at ANSS Counsellor at Law</span>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Guna.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Guna Darma, S.H.,LL.M</h4>
-							<span>Partner at AYMP Counsellor at Law</span>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Bima.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Bima Sarumpaet, S.H</h4>
-							<span>Partner at HHP Law Firm</span>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
-						<div class="member-img">
-							<img src="assets/img/abls/cla/Richelle.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="member-info">
-							<h4>Richelle Stephen Suwita,S.H.,LL.M</h4>
-							<span>Associate</span>
-							<span>at</span>
-							<span>Ginting & Reksodiputro in</span>
-							<span>association with Allen & Overy LLP</span>
-						</div>
-					</div>
-				</div>
-			</div> -->
  		</div>
  	</section>
 
@@ -449,79 +254,79 @@
  		</div>
  	</section>
 
-	 <section id="portfolio" class="portfolio section-bg">
-      <div class="container">
-	  <div class="section-title mt-5" data-aos="fade-up">
+ 	<section id="portfolio" class="portfolio section-bg">
+ 		<div class="container">
+ 			<div class="section-title mt-5" data-aos="fade-up">
  				<h2><strong>CLA's Documentaries</strong></h2>
  			</div>
-	  <div class="row portfolio-container" data-aos="fade-up">
+ 			<div class="row portfolio-container" data-aos="fade-up">
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/DSC_0055.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0055.png" class="img-fluid" alt="">
-			</a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/DSC_0055.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/DSC_0055.png" class="img-fluid" alt="">
+ 					</a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/DSC_0092.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0092.png" class="img-fluid" alt="">
-			</a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/DSC_0092.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/DSC_0092.png" class="img-fluid" alt="">
+ 					</a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/DSC_0109.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0109.png" class="img-fluid" alt="">
-			</a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/DSC_0109.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/DSC_0109.png" class="img-fluid" alt="">
+ 					</a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/DSC_0188.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0188.png" class="img-fluid" alt="">
-			</a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/DSC_0188.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/DSC_0188.png" class="img-fluid" alt="">
+ 					</a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/DSC_0191.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0191.png" class="img-fluid" alt="">
-			</a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/DSC_0191.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/DSC_0191.png" class="img-fluid" alt="">
+ 					</a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/DSC_0207.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0207.png" class="img-fluid" alt=""></a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/DSC_0207.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/DSC_0207.png" class="img-fluid" alt=""></a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/DSC_0212.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/DSC_0212.png" class="img-fluid" alt=""></a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/DSC_0212.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/DSC_0212.png" class="img-fluid" alt=""></a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" class="img-fluid" alt=""></a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-03 at 12.29.47.png" class="img-fluid" alt=""></a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" class="img-fluid" alt=""></a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/Screen Shot 2021-04-24 at 11.03.40 AM.png" class="img-fluid" alt=""></a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" class="img-fluid" alt=""></a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/Screenshot (75).png" class="img-fluid" alt=""></a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" class="img-fluid" alt=""></a>
-			</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/Screenshot (112).png" class="img-fluid" alt=""></a>
+ 				</div>
 
-			<div class="col-lg-4 col-md-6 portfolio-item filter">
-			<a href="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" data-gall="portfolioGallery" class="venobox preview-link">
-			<img src="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" class="img-fluid" alt=""></a>
-			</div>
-			
-</div>
+ 				<div class="col-lg-4 col-md-6 portfolio-item filter">
+ 					<a href="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" data-gall="portfolioGallery" class="venobox preview-link">
+ 						<img src="assets/img/abls/cla/Gallery CLA/Screenshot (415).png" class="img-fluid" alt=""></a>
+ 				</div>
 
-</section>
+ 			</div>
+
+ 	</section>
  </main>
