@@ -2,15 +2,9 @@
 	<!-- ======= Breadcrumbs ======= -->
 	<section id="breadcrumbs" class="breadcrumbs">
 		<div class="container">
-
 			<div class="d-flex justify-content-between align-items-center">
 				<h2>Division</h2>
-				<!-- <ol>
-					<li><a href="index.html">Home</a></li>
-					<li>Division</li>
-				</ol> -->
 			</div>
-
 		</div>
 	</section><!-- End Breadcrumbs -->
 
@@ -22,14 +16,12 @@
 				<h2>Board of<strong> Directors</strong></h2>
 			</div>
 
-
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up">
 						<div class="member-img">
 							<img src="assets/img/abls/Albima Rangga Setiyawan.png" class="img-fluid" alt="">
 							<div class="social">
-
 								<a href="https://www.instagram.com/albimarangga/ "><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/albima-rangga-setiyawan-501b531b5/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -47,7 +39,7 @@
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="400">
+					<div class="member" data-aos="fade-up" data-aos-delay="500">
 						<div class="member-img">
 							<img src="assets/img/abls/James Xaverius Lemi.png" class="img-fluid" alt="">
 							<div class="social">
@@ -64,9 +56,8 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="100">
+					<div class="member" data-aos="fade-up" data-aos-delay="500">
 						<div class="member-img">
 							<img src="assets/img/abls/Feira Salsabila Nadyaputri.png" class="img-fluid" alt="">
 							<div class="social">
@@ -83,9 +74,8 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="200">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/Matthew Aprianto.png" class="img-fluid" alt="">
 							<div class="social">
@@ -102,9 +92,8 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<div class="member" data-aos="fade-up" data-aos-delay="100">
 						<div class="member-img">
 							<img src="assets/img/abls/Gandhi Dwiky Mohamad.png" class="img-fluid" alt="">
 							<div class="social">
@@ -125,7 +114,7 @@
 
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<div class="member" data-aos="fade-up" data-aos-delay="900">
 						<div class="member-img">
 							<img src="assets/img/abls/Hanurita Ayu Widyasti.png" class="img-fluid" alt="">
 							<div class="social">
@@ -143,9 +132,8 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<div class="member" data-aos="fade-up" data-aos-delay="800">
 						<div class="member-img">
 							<img src="assets/img/abls/Jessica Jill Valentine.png" class="img-fluid" alt="">
 							<div class="social">
@@ -165,11 +153,11 @@
 			</div>
 
 			<hr color="#bdb21b" width="100%" size="75%">
-			<div class="row d-flex justify-content-center">
+
+			<div class="row d-flex justify-content-center" data-aos="fade-up">
 				<a href="<?= base_url('organizations') ?>" class="btn btn-gold">Departement of Organizations</a>
 				<a href="<?= base_url('research') ?>" class="btn btn-gold">Department of Research</a>
 			</div>
 		</div>
 	</section><!-- End Our Team Section -->
-
 </main><!-- End #main -->
