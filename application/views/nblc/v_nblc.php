@@ -76,4 +76,76 @@
 			</div>
 		</div>
 	</section>
+
+	<section id="team" class="team">
+		<div class="container">
+
+			<div class="section-title mt-5" data-aos="fade-up">
+				<h2>Board of<strong> NBLC</strong></h2>
+			</div>
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
+							<img src="assets/img/abls/29.png" class="img-fluid" alt="">
+							<div class="social">
+							
+								<a href="https://www.instagram.com/benrgalla/"><i class="icofont-instagram"></i></a>
+								<a href=""><i class="icofont-linkedin"></i></a>
+							</div>
+						</div>
+						<div class="member-info">
+							<h4>Feira Salsabila Nadiaputri</h4>
+							<!-- <span>Manager of Internal</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span> -->
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
+							<img src="assets/img/abls/30.png" class="img-fluid" alt="">
+							<div class="social">
+					
+								<a href="https://www.instagram.com/jslebe_/"><i class="icofont-instagram"></i></a>
+								<a href=""><i class="icofont-linkedin"></i></a>
+							</div>
+						</div>
+						<div class="member-info">
+							<h4>Muhammad Kunisyahputra Pasha</h4>
+							<!-- <span>Manager of External</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span> -->
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
+							<img src="assets/img/abls/31.png" class="img-fluid" alt="">
+							<div class="social">
+								
+								<a href="https://www.instagram.com/meii_dita/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/meidita-r-a63a741b8/"><i class="icofont-linkedin"></i></a>
+							</div>
+						</div>
+						<div class="member-info">
+							<h4>Rania Pramesti Jaya</h4>
+							<!-- <span>Manager of Media & Public Relations</span>
+                            <span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2021</span> -->
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</section>
 </main>
