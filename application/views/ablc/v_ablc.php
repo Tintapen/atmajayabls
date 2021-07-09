@@ -51,18 +51,18 @@
 	</section>
 
 	<section id="video" class="video ">
-	<div class="container" data-aos="fade-up">
+		<div class="container" data-aos="fade-up">
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2><strong>ABLC Video</strong></h2>
 			</div>
 
-	<div class="video">
-		<video width="1145" controls autoplay>
-  		<source src="assets/img/abls/ABLC.mp4" type="video/mp4">
- 			 Your browser does not support the video tag.
-		</video>
-	</div>
+			<div class="video">
+				<video width="1145" autoplay controls>
+					<source src="<?= base_url('assets/img/abls/ABLC.mp4') ?>" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
+			</div>
 
-</div>
+		</div>
 	</section>
 </main>
