@@ -51,31 +51,35 @@
 				</div>
 
 				<div class="col-lg-4 col-md-6 portfolio-item filter">
-				<a href="<?= base_url('assets/img/abls/nblc/2.png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
+					<a href="<?= base_url('assets/img/abls/nblc/2.png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
 						<img src="<?= base_url('assets/img/abls/nblc/2.png') ?>" class="img-fluid" alt=""></a>
 				</div>
 
 				<div class="col-lg-4 col-md-6 portfolio-item filter">
-				<a href="<?= base_url('assets/img/abls/nblc/3.png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
+					<a href="<?= base_url('assets/img/abls/nblc/3.png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
 						<img src="<?= base_url('assets/img/abls/nblc/3.png') ?>" class="img-fluid" alt=""></a>
 				</div>
 
 				<div class="col-lg-4 col-md-6 portfolio-item filter">
-				<a href="<?= base_url('assets/img/abls/nblc/4.png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
+					<a href="<?= base_url('assets/img/abls/nblc/4.png') ?>" data-gall="portfolioGallery" class="venobox preview-link">
 						<img src="<?= base_url('assets/img/abls/nblc/4.png') ?>" class="img-fluid" alt=""></a>
 				</div>
-		</div>
+			</div>
 	</section>
 
 	<section id="portfolio" class="portfolio">
 		<div class="container">
-			<div class="section-title mt-5" data-aos="fade-up">
+			<div class="section-title mt-3" data-aos="fade-up">
 				<h2><strong>NBLC Social Media</strong></h2>
-			</div>		
-				<!-- <div class="social-links">
-					<a href="https://www.instagram.com/atmajayabls" class="instagram"><i class="icofont-instagram"></i></a>
-					<a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
-				</div> -->
+			</div>
+
+			<div class="row d-flex justify-content-center mx-md-n5">
+				<a href="https://www.instagram.com/atmajayabls" class="instagram px-md-5" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
+				<a href="#" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
+				<a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a>
+				<a href="#" class="message px-md-5" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
+				<a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a>
+			</div>
 		</div>
 	</section>
 
