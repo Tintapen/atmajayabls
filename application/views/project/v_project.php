@@ -15,11 +15,11 @@
 
 			<div class="row">
 				<div class="col text-center">
-					<a href="<?= base_url('nblc') ?>">
+					<a href="<?= base_url('nblcsummit') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="About NBLC Summit">
+							<img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="NBLC Summit">
 						</div>
-						<p>About NBLC Summit</p>
+						<p>NBLC Summit</p>
 					</a>
 				</div>
 				<div class="col text-center">

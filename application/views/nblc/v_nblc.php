@@ -3,9 +3,9 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
+			<!-- <div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);"> -->
 				<div class="hero-text">
-					<h2>The 6th National Business Law Community Summit</h2>
+					<h2>National Business Law Community</h2>
 				</div>
 			</div>
 		</div>
@@ -13,31 +13,6 @@
 </section>
 
 <main id="main">
-	<section id="about-us" class="about-us">
-		<div class="container" data-aos="fade-up">
-			<div class="section-title mt-5" data-aos="fade-up">
-				<h2><strong>About NBLC Summit</strong></h2>
-			</div>
-			<div class="row content">
-				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
-					<h2><img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="About NBLC Summit"></h2>
-				</div>
-				<div class="col-lg-6 pt-4 pt-lg-0 text-justify" data-aos="fade-left">
-					<p>
-						NBLC Summit is a forum event of official and unofficial members, which consist of
-						Accountability report within one period, recruitment of official members of NBLC and
-						establishment of new officers for the next period. This event aims to:
-					</p>
-					<ul>
-						<li><i class="ri-check-double-line"></i>To increase the efficiency and effectiveness of upcoming activities.</li>
-						<li><i class="ri-check-double-line"></i>To increase and explore the potential of human resource capabilities in the realm of the organization.</li>
-						<li><i class="ri-check-double-line"></i>Realizing the potential and improving the quality in terms of activities and human resources in the realm of the organization.</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</section>
-
 	<section id="about-us" class="about-us section-bg">
 		<div class="container" data-aos="fade-up">
 
@@ -47,16 +22,19 @@
 
 			<div class="row content text-justify">
 				<div class="col-lg-6" data-aos="fade-right">
-					<h2>National Business Law Community</h2>
+				
+					<h2><img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="About NBLC Summit"></h2>
 					<p> National Business Law Community (NBLC) is a non-profit organization that isn’t affiliated with
 						any political group that consist of business law student organizations from various universities
 						across Indonesia. NBLC was declared during the first BLS Summit in 2015. The point of declaration
 						was to initiate a national community consisting of existing business law students organizations
-						across Indonesia. NBLC was officially established during the 4th BLS Summit in 2018 by four universities,
-						namely BLS FH UI, ABLS, BLC FH UB, and BLC FH UII. NBLC was restructured during the 6th NBLC Summit in 2021
-						which sets a new approach towards the overall management of NBLC itself by applying a </p>
+						across Indonesia. </p>
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
+					<p> NBLC was officially established during the 4th BLS Summit in 2018 by four universities,
+						namely BLS FH UI, ABLS, BLC FH UB, and BLC FH UII. NBLC was restructured during the 6th NBLC Summit in 2021
+						which sets a new approach towards the overall management of NBLC itself by applying a 
+					</p>
 					<p> Person In
 						Charge system from each members to fill positions as The Board of NBLC. By that, we envision NBLC to
 						build a strong relationship between business law student organization and provide benefits for member

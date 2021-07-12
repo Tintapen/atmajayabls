@@ -83,7 +83,7 @@
 			<div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<a href="<?= base_url('nblc') ?>">
+						<a href="<?= base_url('nblcsummit') ?>">
 							<img src="assets/img/abls/NBLC.png" class="img-fluid" alt="">
 						</a>
 					</div>
