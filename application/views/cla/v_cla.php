@@ -329,4 +329,20 @@
  			</div>
 
  	</section>
+
+	 <section id="portfolio" class="portfolio">
+		<div class="container">
+			<div class="section-title mt-3" data-aos="fade-up">
+				<h2><strong>Corporate Legal Academy Social Media</strong></h2>
+			</div>
+
+			<div class="row d-flex justify-content-center mx-md-n5">
+				<a href="https://www.instagram.com/atmajayabls" class="instagram px-md-5" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
+				<a href="#" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
+				<a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a>
+				<a href="#" class="message px-md-5" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
+				<a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a>
+			</div>
+		</div>
+	</section>
  </main>

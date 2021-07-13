@@ -70,7 +70,7 @@
 	<section id="portfolio" class="portfolio">
 		<div class="container">
 			<div class="section-title mt-3" data-aos="fade-up">
-				<h2><strong>NBLC Social Media</strong></h2>
+				<h2><strong>NBLC Summit Social Media</strong></h2>
 			</div>
 
 			<div class="row d-flex justify-content-center mx-md-n5">
