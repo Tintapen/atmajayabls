@@ -13,14 +13,14 @@
 </section>
 
 <main id="main">
-	<section id="about-us" class="about-us">
+	<section id="about-us" class="about-us section-bg">
 		<div class="container" data-aos="fade-up">
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2><strong>About NBLC Summit</strong></h2>
 			</div>
 			<div class="row content">
 				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
-					<h2><img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="About NBLC Summit"></h2>
+					<h2><img src="assets/img/abls/nblc/NBLC SUMMIT.jpeg" class="img-fluid" alt="About NBLC Summit"></h2>
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0 text-justify" data-aos="fade-left">
 					<p>
@@ -38,7 +38,7 @@
 		</div>
 	</section>
 
-	<section id="portfolio" class="portfolio section-bg">
+	<section id="portfolio" class="portfolio">
 		<div class="container">
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2><strong>NBLC Summit Documentaries</strong></h2>
@@ -67,18 +67,18 @@
 			</div>
 	</section>
 
-	<section id="portfolio" class="portfolio">
+	<section id="portfolio" class="portfolio section-bg">
 		<div class="container">
 			<div class="section-title mt-3" data-aos="fade-up">
 				<h2><strong>NBLC Summit Social Media</strong></h2>
 			</div>
 
 			<div class="row d-flex justify-content-center mx-md-n5">
-				<a href="https://www.instagram.com/atmajayabls" class="instagram px-md-5" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
-				<a href="#" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
-				<a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a>
+				<a href="https://www.instagram.com/nblc.indonesia/" class="instagram px-md-5" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
+				<a href="https://www.linkedin.com/company/nblcindonesia/about/" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
+				<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
 				<a href="#" class="message px-md-5" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
-				<a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a>
+				<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
 			</div>
 		</div>
 	</section>
