@@ -3,7 +3,7 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/NBLCSUMMIT.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/BANNER_NBLC_SUMMIT.png);">
 				<div class="hero-taxt">
 					<h2>The 6th National Business Law Community Summit</h2>
 				</div>

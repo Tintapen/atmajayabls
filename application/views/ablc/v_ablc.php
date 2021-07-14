@@ -3,10 +3,10 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/ablc/ablc_banner.png);">
-				<!-- <div class="hero-text">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/BANNER_ABLC.png);">
+				<div class="hero-taxt">
 					<h2 class="mt-xl-5">The 2nd Atma Jaya Business Law Competition 2021</h2>
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</div>

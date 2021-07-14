@@ -3,9 +3,9 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/iloc/banner_iloc.png);">
-				<div class="hero-text">
-					<!-- <h2>Atma Jaya Internal Legal Opinion Competition 2021</h2> -->
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/BANNER_ILOC.png);">
+				<div class="hero-taxt">
+					<h2>Atma Jaya Internal Legal Opinion Competition 2021</h2>
 				</div>
 			</div>
 		</div>
