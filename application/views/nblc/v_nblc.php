@@ -67,8 +67,8 @@
 						<div class="member-img">
 							<img src="assets/img/abls/29.png" class="img-fluid" alt="">
 							<div class="social">
-								<a href="https://www.instagram.com/benrgalla/"><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="https://www.instagram.com/fei.slsbll/"><i class="icofont-instagram"></i></a>
+								<a href="https://www.linkedin.com/in/feira-salsabila-b5aa691b3/"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -87,8 +87,8 @@
 						<div class="member-img">
 							<img src="assets/img/abls/30.png" class="img-fluid" alt="">
 							<div class="social">
-								<a href="https://www.instagram.com/jslebe_/"><i class="icofont-instagram"></i></a>
-								<a href=""><i class="icofont-linkedin"></i></a>
+								<a href="#"><i class="icofont-instagram"></i></a>
+								<a href="#"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
@@ -106,8 +106,8 @@
 						<div class="member-img">
 							<img src="assets/img/abls/31.png" class="img-fluid" alt="">
 							<div class="social">
-								<a href="https://www.instagram.com/meii_dita/"><i class="icofont-instagram"></i></a>
-								<a href="https://www.linkedin.com/in/meidita-r-a63a741b8/"><i class="icofont-linkedin"></i></a>
+								<a href="#"><i class="icofont-instagram"></i></a>
+								<a href="#"><i class="icofont-linkedin"></i></a>
 							</div>
 						</div>
 						<div class="member-info">
