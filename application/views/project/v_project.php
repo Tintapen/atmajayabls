@@ -7,7 +7,7 @@
 		</div>
 	</section>
 
-	<section id="portfolio-details" class="portfolio-details section-bg">
+	<section id="portfolio-details" class="portfolio-details">
 		<div class="container" data-aos="fade-up">
 			<div class="section-title mt-5" data-aos="fade-up">
 				<h2>Project & <strong>Events</strong></h2>
@@ -17,7 +17,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('nblcsummit') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/nblc/NBLC SUMMIT.jpeg" class="img-fluid" alt="NBLC Summit">
+							<img src="assets/img/abls/nblc/NBLC_SUMMIT2.png" class="img-fluid" alt="NBLC Summit">
 						</div>
 						<p>NBLC Summit</p>
 					</a>

@@ -4,11 +4,11 @@
 
 		<div class="carousel-inner" role="listbox">
 			<!-- <div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);"> -->
-				<div class="hero-text">
-					<h2>National Business Law Community</h2>
-				</div>
+			<div class="hero-text">
+				<h2>National Business Law Community</h2>
 			</div>
 		</div>
+	</div>
 
 </section>
 
@@ -22,7 +22,7 @@
 
 			<div class="row content text-justify">
 				<div class="col-lg-6" data-aos="fade-right">
-				
+
 					<h2><img src="assets/img/abls/Logo NBLC Horizontal 2.png" class="img-fluid" alt="About NBLC Summit"></h2>
 					<p> National Business Law Community (NBLC) is a non-profit organization that isn’t affiliated with
 						any political group that consist of business law student organizations from various universities
@@ -33,7 +33,7 @@
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p> NBLC was officially established during the 4th BLS Summit in 2018 by four universities,
 						namely BLS FH UI, ABLS, BLC FH UB, and BLC FH UII. NBLC was restructured during the 6th NBLC Summit in 2021
-						which sets a new approach towards the overall management of NBLC itself by applying a 
+						which sets a new approach towards the overall management of NBLC itself by applying a
 					</p>
 					<p> Person In
 						Charge system from each members to fill positions as The Board of NBLC. By that, we envision NBLC to
@@ -63,11 +63,10 @@
 			</div>
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<div class="member shadow-lg p-3 mb-5 bg-white rounded" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/29.png" class="img-fluid" alt="">
 							<div class="social">
-							
 								<a href="https://www.instagram.com/benrgalla/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -84,11 +83,10 @@
 
 
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<div class="member shadow-lg p-3 mb-5 bg-white rounded" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/30.png" class="img-fluid" alt="">
 							<div class="social">
-					
 								<a href="https://www.instagram.com/jslebe_/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div>
@@ -104,11 +102,10 @@
 				</div>
 
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<div class="member lg p-3 mb-5 bg-white rounded" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/31.png" class="img-fluid" alt="">
 							<div class="social">
-								
 								<a href="https://www.instagram.com/meii_dita/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/meidita-r-a63a741b8/"><i class="icofont-linkedin"></i></a>
 							</div>
@@ -130,20 +127,18 @@
 	<section id="portfolio" class="portfolio">
 		<div class="container">
 			<div class="section-title mt-3" data-aos="fade-up">
-		
 				<h2><strong>National Business Law Community</strong></h2>
-				
 			</div>
 
 			<div class="row d-flex justify-content-center mx-md-n5">
-			<div class="member" data-aos="fade-up" data-aos-delay="300">
-				<a href="https://www.instagram.com/nblc.indonesia/" class="instagram px-md-5" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
-				<a href="https://www.linkedin.com/company/nblcindonesia/about/" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
-				<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
-				<a href="#" class="message px-md-5" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
-				<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
+				<div class="member" data-aos="fade-up" data-aos-delay="300">
+					<a href="https://www.instagram.com/nblc.indonesia/" class="instagram px-3" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
+					<a href="https://www.linkedin.com/company/nblcindonesia/about/" class="linkedin px-3" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
+					<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
+					<a href="#" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
+					<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
+				</div>
 			</div>
-</div>
 		</div>
 	</section>
 </main>

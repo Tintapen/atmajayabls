@@ -4,10 +4,9 @@
 
 		<div class="carousel-inner" role="listbox">
 			<div class="carousel-item active" style="background-image: url(assets/img/abls/ablc/ablc_banner.png);">
-				<div class="hero-text">
-					<h2>
-						The 2nd Atma Jaya Business Law Competition 2021</h2>
-				</div>
+				<!-- <div class="hero-text">
+					<h2 class="mt-xl-5">The 2nd Atma Jaya Business Law Competition 2021</h2>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -56,7 +55,7 @@
 				<h2><strong>ABLC Video</strong></h2>
 			</div>
 
-			<div class="video">
+			<div class="embed-responsive embed-responsive-16by9 shadow-lg">
 				<video width="1145" autoplay controls>
 					<source src="<?= base_url('assets/img/abls/ABLC.mp4') ?>" type="video/mp4">
 					Your browser does not support the video tag.
@@ -72,10 +71,10 @@
 			</div>
 
 			<div class="row d-flex justify-content-center mx-md-n5">
-				<a href="https://www.instagram.com/atmajayablc/" class="instagram px-md-5" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
+				<a href="https://www.instagram.com/atmajayablc/" class="instagram px-3" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
 				<!-- <a href="#" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a> -->
 				<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
-				<a href="mailto:ablcfhuaj@gmail.com" class="message px-md-5" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
+				<a href="mailto:ablcfhuaj@gmail.com" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
 				<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
 			</div>
 		</div>
