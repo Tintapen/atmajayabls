@@ -3,8 +3,8 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);">
-				<div class="hero-text">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/NBLCSUMMIT.png);">
+				<div class="hero-taxt">
 					<h2>The 6th National Business Law Community Summit</h2>
 				</div>
 			</div>
@@ -77,7 +77,7 @@
 				<a href="https://www.instagram.com/nblc.indonesia/" class="instagram px-3" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
 				<a href="https://www.linkedin.com/company/nblcindonesia/about/" class="linkedin px-3" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
 				<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
-				<a href="#" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
+				<a href="mailto:nblc.official@gmail.com" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
 				<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
 			</div>
 		</div>

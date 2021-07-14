@@ -3,8 +3,8 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<!-- <div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);"> -->
-			<div class="hero-text">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/BANNERNBLC.png);">
+			<div class="hero-taxt">
 				<h2>National Business Law Community</h2>
 			</div>
 		</div>
@@ -73,10 +73,10 @@
 						</div>
 						<div class="member-info">
 							<h4>Feira Salsabila Nadiaputri</h4>
-							<!-- <span>Manager of Internal</span>
-                            <span>of</span>
-							<span>Atma Jaya BLS</span>
-							<span>Board of 2021</span> -->
+							<span>Director of Organization</span>
+                            <!-- <span>of</span>
+							<span>Organization</span> -->
+							<!-- <span>Board of 2021</span> -->
 						</div>
 					</div>
 				</div>
@@ -93,8 +93,8 @@
 						</div>
 						<div class="member-info">
 							<h4>Muhammad Kunisyahputra Pasha</h4>
-							<!-- <span>Manager of External</span>
-                            <span>of</span>
+							<span>Executive Director</span>
+                            <!-- <span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span> -->
 						</div>
@@ -112,8 +112,8 @@
 						</div>
 						<div class="member-info">
 							<h4>Rania Pramesti Jaya</h4>
-							<!-- <span>Manager of Media & Public Relations</span>
-                            <span>of</span>
+							<span>Director Of Research</span>
+                            <!-- <span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span> -->
 						</div>
@@ -135,7 +135,7 @@
 					<a href="https://www.instagram.com/nblc.indonesia/" class="instagram px-3" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
 					<a href="https://www.linkedin.com/company/nblcindonesia/about/" class="linkedin px-3" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a>
 					<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
-					<a href="#" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
+					<a href="mailto:nblc.official@gmail.com" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
 					<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
 				</div>
 			</div>
