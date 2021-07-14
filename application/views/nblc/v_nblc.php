@@ -102,7 +102,7 @@
 				</div>
 
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-					<div class="member lg p-3 mb-5 bg-white rounded" data-aos="fade-up" data-aos-delay="300">
+					<div class="member shadow-lg p-3 mb-5 bg-white rounded" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/31.png" class="img-fluid" alt="">
 							<div class="social">
