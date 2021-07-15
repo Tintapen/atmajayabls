@@ -401,7 +401,7 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/Gabriella Jasmine.png" class="img-fluid" alt="">
+							<img src="assets/img/abls/kosong.png" class="img-fluid" alt="">
 							<div class="social">
 								<a href="https://www.instagram.com/a_damnations/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>

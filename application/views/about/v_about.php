@@ -30,8 +30,8 @@
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
-						ABLS is a business law society in Atma Jaya Chatolic University of Indonesia.
-						We are the only organization in Atma Jaya Chatolic University of Indonesia that
+						ABLS is a business law society in Atma Jaya Catholic University of Indonesia.
+						We are the only organization in Atma Jaya Catholic University of Indonesia that
 						provide and train college students in Economics and Business Law. Why business law?
 						Indonesia is facing Asean Economic Community, AFTA, and etc. Because of these,
 						we are here to prepare college students to be professional person,

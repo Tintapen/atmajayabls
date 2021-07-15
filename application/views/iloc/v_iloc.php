@@ -30,7 +30,7 @@
 						program of the Atmajaya Business Law Society (ABLS), and is the first competition event
 						internal legal opinion since ABLS was founded, and will become one of ABLS' annual programs.
 						This year, ILOC's work program is a competition legal opinion which is open to law students
-						at Atma Jaya Chatolic University of Indonesia. This year, ILOC held an activity with the theme
+						at Atma Jaya Catholic University of Indonesia. This year, ILOC held an activity with the theme
 						“Resolution to a Project of Government Cooperation with Business Entities''.
 					</p>
 
