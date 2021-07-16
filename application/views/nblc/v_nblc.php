@@ -124,7 +124,7 @@
 		</div>
 	</section>
 
-	<section id="portfolio" class="portfolio">
+	<section id="portfolio" class="portfolio section-bg">
 		<div class="container">
 			<div class="section-title mt-3" data-aos="fade-up">
 				<h2><strong>National Business Law Community</strong></h2>

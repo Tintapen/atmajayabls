@@ -31,7 +31,7 @@
 </section><!-- End Hero -->
 
 <main id="main">
-	<section id="about-us" class="about-us">
+	<section id="about-us" class="about-us section-bg">
 		<div class="container" data-aos="fade-up">
 			<div class="section-title">
 				<h2>About Us</strong></h2>
