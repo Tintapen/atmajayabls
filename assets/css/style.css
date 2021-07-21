@@ -1741,6 +1741,11 @@ section {
   z-index: 1;
 }
 
+.portfolio-details .portfolio-details-container img {
+	width: 330px;
+	height: 350px;
+}
+
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
   margin-top: 5px;
   text-align: left;
