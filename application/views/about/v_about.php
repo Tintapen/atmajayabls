@@ -5,7 +5,7 @@
 		<div class="container">
 
 			<div class="d-flex justify-content-between align-items-center">
-				<h2>About Us</h2>
+				<h2>Director's Preface</h2>
 			</div>
 
 		</div>
@@ -17,36 +17,19 @@
 
 			<div class="row content text-justify">
 				<div class="col-lg-6" data-aos="fade-right">
-					<h2>Atma Jaya BLS</h2>
-					<p>Atma Jaya Business Law Society (“ABLS”) is a business law-based organization
-						that has a strong vision to make Atma Jaya Business Law Society a pioneer for all
-						business law organizations in the Faculty of Law throughout Indonesia.</p>
-					<p>The mission is to personify the vision by:</p>
-					<ul>
-						<li><i class="ri-check-double-line"></i> Produce a leading work programs that related to Business Law.</li>
-						<li><i class="ri-check-double-line"></i> Provide ABLS active members to become a great human resources who are
-							able to compete competitively in the world of Business Law.</li>
-					</ul>
+					<br><br><br>
+					<p>Greetings from Atma Jaya Business Law Society!</p>
+					<p>Welcome to the official website of Atma Jaya Business Law Society. </p>
+					<p>ABLS is an organization in Atma Jaya Catholic University which focuses on economics and business law. We provide the forum to encourage and empower law students to grow, learn, collaborate, and prosper in the field of business law through various training, workshop, seminar, and work programmes.</p>
+					<p>Since 2014, we have been consistent in our goals to create opportunities for law students to nurture their academic performances as well as organizational skills in the field of business law. As a result, ABLS has actively contributed to many law student’s success in their professional career. </p>
+					<p>This is all possible due to the endless support from the founders, active members, as well as passive members of ABLS. Thus, we are deeply grateful for our support system and sincerely hope that we will continue to benefit more law students in their growth.</p>
+					<p>Thank you for visiting our Offcial Website!</p>
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
-					<p>
-						ABLS is a business law society in Atma Jaya Catholic University of Indonesia.
-						We are the only organization in Atma Jaya Catholic University of Indonesia that
-						provide and train college students in Economics and Business Law. Why business law?
-						Indonesia is facing Asean Economic Community, AFTA, and etc. Because of these,
-						we are here to prepare college students to be professional person,
-						especially to be a great corporate lawyer.
-					</p>
-					<p>
-						We develop college students’ skill through training, workshop, seminar, and
-						also business law competition. Our goal is to prepare college students
-						to be an intelligent person that is useful to face real-world in law firm.
-					</p>
-					<p>
-						ABLS formed in 2014 by the founders. They are Albertus Andhika, Andonius
-						Simanjorang, Angela Yogiana, Arvin Raharja, Peter Pendowo, Selfi, and Yoanna
-						Syvia Dessyadventia Ben.
-					</p>
+				<img src="assets/img/abls/BOE/Valencia_Wijaya.png" class="img-fluid" alt="Corporate Legal Academy" width="500" height="500">
+				<h2 style="text-align:center">Valencia Wijaya</h2>
+				<h3 style="text-align:center">Executive Director of ABLS</h3>
+				<h3 style="text-align:center">Board of 2022</h3>
 				</div>
 			</div>
 
@@ -54,7 +37,7 @@
 	</section><!-- End About Us Section -->
 
 	<!-- ======= Our Team Section ======= -->
-	<section id="team" class="team section-bg">
+	<!-- <section id="team" class="team section-bg">
 		<div class="container">
 
 			<div class="section-title" data-aos="fade-up">
@@ -159,5 +142,5 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </main>

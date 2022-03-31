@@ -4,30 +4,11 @@
 
         <div class="carousel-inner" role="listbox">
             <!-- Slide 1 -->
-            <div class="carousel-item active" style="background-image: url(assets/img/abls/Board1_rev.png);"></div>
-
-            <!-- Slide 2 -->
-            <div class="carousel-item" style="background-image: url(assets/img/abls/Project_rev.png);">
-                <div class="carousel-container">
-                    <div class="carousel-content animate__animated animate__fadeInUp">
-                        <h2>Project</h2>
-                        <p>The project that already held and our upcoming project.</p>
-                        <div class="text-center"><a href="<?= base_url('project') ?>" class="btn-get-started">See
-                                More</a></div>
-                    </div>
-                </div>
-            </div>
+            <div class="carousel-item active" style="background-image: url(assets/img/abls/FULL.png);">
+			</div>
         </div>
 
-        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon icofont-simple-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon icofont-simple-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-        <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+      
     </div>
 </section><!-- End Hero -->
 
@@ -122,3 +103,4 @@
             </div>
     </section>
 </main>
+
