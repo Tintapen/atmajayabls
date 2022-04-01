@@ -5,7 +5,10 @@
         <div class="carousel-inner" role="listbox">
             <!-- Slide 1 -->
             <div class="carousel-item active" style="background-image: url(assets/img/abls/FULL.png);">
-			</div>
+			<div class="hero-text">
+ 				<h1>ATMA JAYA LAW SOCIETY</h1>
+ 			</div>	
+		</div>
         </div>
 
       
