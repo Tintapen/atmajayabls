@@ -1,6 +1,6 @@
 <div class="container d-flex align-items-center">
 
-	<a href="<?= base_url() ?>" class="logo mr-1"><img src="assets/img/abls/2.png" class="img-fluid">
+	<a href="<?= base_url() ?>" class="logo mr-1"><img src="assets/img/abls/logo_new.png" class="img-fluid">
 		<h1 class="logo mr-auto"><a href="<?= base_url() ?>"><span>AB</span>LS</a></h1>
 
 		<nav class="nav-menu d-none d-lg-block">
