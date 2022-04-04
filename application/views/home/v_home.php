@@ -93,14 +93,14 @@
 						</a>
 					</div>
 				</div>
-				<!-- <div class="col-lg-3 col-md-4 col-6">
-                    <div class="client-logo">
-                        <a href="<? //= base_url('social') 
+				<div class="col-lg-3 col-md-4 col-6">
+					<div class="client-logo">
+						<a href="<?= base_url('social')
 									?>">
-                            <img src="assets/img/abls/nblc.png" class="img-fluid" alt="">
-                        </a>
-                    </div>
-                </div> -->
+							<img src="assets/img/abls/NBLC.png" class="img-fluid" alt="">
+						</a>
+					</div>
+				</div>
 			</div>
 	</section>
 </main>
