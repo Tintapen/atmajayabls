@@ -168,11 +168,11 @@
 					</div>
 				</div>
 			</div>
-			<hr color="#bdb21b" width="100%" size="75%">
+			<hr color="#A33020" width="100%" size="75%">
 			<div class="row d-flex justify-content-center" data-aos="fade-up">
-			<a href="<?= base_url('research') ?>" class="btn btn-gold">Department of Research</a>
-			<a href="<?= base_url('media') ?>" class="btn btn-gold">Media & Public Relations</a>
-			<a href="<?= base_url('organizations') ?>" class="btn btn-gold">Departement of Organizations</a>
+				<a href="<?= base_url('research') ?>" class="btn btn-gold">Department of Research</a>
+				<a href="<?= base_url('media') ?>" class="btn btn-gold">Media & Public Relations</a>
+				<a href="<?= base_url('organizations') ?>" class="btn btn-gold">Departement of Organizations</a>
 			</div>
 		</div>
 	</section><!-- End Our Team Section -->
