@@ -146,7 +146,7 @@
 						</div>
 						<div class="member-info">
 							<h4>Gabriella Jasmine Mulyadi</h4>
-							<span>Executive Director</span>
+							<span>Director of Media and Public Relation</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2022</span>
