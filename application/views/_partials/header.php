@@ -11,6 +11,13 @@
 						<li <?php if ($this->uri->segment(1) == 'about') echo "class='active'"; ?>><a href="<?= base_url('about') ?>">Director's Preface</a></li>
 						<li <?php if ($this->uri->segment(1) == 'division') echo "class='active'"; ?>><a href="<?= base_url('division') ?>">Divisions</a></li>
 						<li <?php if ($this->uri->segment(1) == 'contact') echo "class='active'"; ?>><a href="<?= base_url('contact') ?>">Contact Us</a></li>
+						<li class="drop-down"><a href="">ABLS Article</a>
+							<ul>
+							<li <?php if ($this->uri->segment(1) == 'article1') echo "class='active'"; ?>><a href="<?= base_url('article1') ?>">Ryandra Atha Mutia</a></li>
+							<li <?php if ($this->uri->segment(1) == 'article2') echo "class='active'"; ?>><a href="<?= base_url('article2') ?>">Stheavany Fredianta</a></li>
+							<li <?php if ($this->uri->segment(1) == 'article3') echo "class='active'"; ?>><a href="<?= base_url('article3') ?>">Verrence Wibowo</a></li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li <?php if ($this->uri->segment(1) == 'achievement') echo "class='active'"; ?>><a href="<?= base_url('achievement') ?>">Achievement</a></li>
