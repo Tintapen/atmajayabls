@@ -23,18 +23,18 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/BOE/Patricia.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/19.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 								<a href="https://www.instagram.com/gandhiwicky/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Patricia Ingrid Dewani</h4>
+						<h4>Abiel Cale</h4>
 							<span>Director of Organizations</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
@@ -44,25 +44,25 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/ORGANIZATION/Ignatius.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/20.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 								<a href="https://www.instagram.com/benrgalla/"><i class="icofont-instagram"></i></a>
 								<a href=""><i class="icofont-linkedin"></i></a>
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Ignatius Ardi</h4>
+							<h4>Luqman Wicaksono</h4>
 							<span>Manager Internal Affairs</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/ORGANIZATION/Cathymas.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/21.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 							
 								<a href="https://www.instagram.com/patricingrid/"><i class="icofont-instagram"></i></a>
@@ -70,18 +70,18 @@
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Cathymas Irene</h4>
+							<h4>Janice Joyce</h4>
 							<span>Vice Manager Internal Affairs</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/ORGANIZATION/Anastasya.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/18.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 					
 								<a href="https://www.instagram.com/jslebe_/"><i class="icofont-instagram"></i></a>
@@ -89,11 +89,11 @@
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Anastasya Pambajeng DR</h4>
+						<h4>M. Gibran Bali</h4>
 							<span>Manager External Affairs</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
@@ -101,7 +101,7 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/ORGANIZATION/Filipe.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/22.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 						
 								<a href="https://www.instagram.com/jeevangeli/"><i class="icofont-instagram"></i></a>
@@ -109,11 +109,11 @@
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Filipe Larry Jian</h4>
+							<h4>Edzelika Sulaiman</h4>
 							<span>Vice Manager External Affairs</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>

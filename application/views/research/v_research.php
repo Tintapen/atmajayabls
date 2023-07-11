@@ -24,18 +24,18 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/BOE/Meidita.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/33.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 								<a href="https://www.instagram.com/james.xaverius/"><i class="icofont-instagram"></i></a>
 								<a href="https://www.linkedin.com/in/james-xaverius/"><i class="icofont-linkedin"></i></a>
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Meidita Rahmawati</h4>
+							<h4>Shane Patrick Pramajaya</h4>
 							<span>Director of Research</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
@@ -45,7 +45,7 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/RESEARCH/Shane.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/29.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 								
 								<a href=""><i class="icofont-instagram"></i></a>
@@ -53,11 +53,11 @@
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Shane Patrick</h4>
+							<h4>Stheavany Fredianta</h4>
 							<span>Manager of Events</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
@@ -66,7 +66,7 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/RESEARCH/Clarisa.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/36.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 								
 								<a href="https://www.instagram.com/ryanricardotj/"><i class="icofont-instagram"></i></a>
@@ -74,11 +74,11 @@
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Clarisa Martina</h4>
+							<h4>Yemima Fenuel</h4>
 							<span>Vice Manager of Events</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
@@ -86,7 +86,7 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/RESEARCH/Kevin.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/28.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 							
 								<a href="https://www.instagram.com/datdazza/"><i class="icofont-instagram"></i></a>
@@ -94,18 +94,18 @@
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Kevin Veronicca</h4>
+							<h4>I G Audrey Frangipani</h4>
 							<span>Manager of Competitions</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/RESEARCH/Immanuel.png" class="img-fluid" alt="">
+						<img src="assets/img/abls/Division_2023/Division/34.png" class="img-fluid" alt="">
 							<!-- <div class="social">
 								
 								<a href="https://www.instagram.com/krisnantyow/"><i class="icofont-instagram"></i></a>
@@ -113,11 +113,11 @@
 							</div> -->
 						</div>
 						<div class="member-info">
-							<h4>Immanuel Owen</h4>
-							<span>Vice Manager of Competitions</span>
+							<h4>Lidwina Kanaya Andhita</h4>
+						<span>Vice Manager of Competitions</span>
                             <span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2022</span>
+							<span>Board of 2023</span>
 						</div>
 					</div>
 				</div>

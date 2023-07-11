@@ -25,11 +25,12 @@
 					<p>This is all possible due to the endless support from the founders, active members, as well as passive members of ABLS. Thus, we are deeply grateful for our support system and sincerely hope that we will continue to benefit more law students in their growth.</p>
 					<p>Thank you for visiting our Offcial Website!</p>
 				</div>
-				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
-				<img src="assets/img/abls/BOE/Valencia_Wijaya.png" class="img-fluid" alt="Corporate Legal Academy" width="500" height="500">
-				<h2 style="text-align:center">Valencia Wijaya</h2>
+				<div class="col-lg-6 pt-4 pt-lg-0 align-items-center justify-content-center" data-aos="fade-left">
+				
+				<img src="assets/img/abls/Division_2023/Division/23-removebg.png" class="img-fluid" alt="Marwa Hasna Loekman" width="520" height="520">
+				<h2 style="text-align:center">Marwa Hasna Loekman</h2>
 				<h3 style="text-align:center">Executive Director of ABLS</h3>
-				<h3 style="text-align:center">Board of 2022</h3>
+				<h3 style="text-align:center">Board of 2023</h3>
 				</div>
 			</div>
 
