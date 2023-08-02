@@ -4,7 +4,7 @@
 
 		<div class="carousel-inner" role="listbox">
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/FULL.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/foto-bersama.png);">
 			</div>
 		</div>
 
@@ -26,28 +26,28 @@
 						that has a strong vision to make Atma Jaya Business Law Society a pioneer for all
 						business law organizations in the Faculty of Law throughout Indonesia.</p>
 					<p>
-					Atma Jaya Business Law Society as a widely known outstanding, driven, and growing 
-					student forum in the field of business law. As well as bring forth competitive individuals with 
-					abundance of knowledge in business law.
+						Atma Jaya Business Law Society as a widely known outstanding, driven, and growing
+						student forum in the field of business law. As well as bring forth competitive individuals with
+						abundance of knowledge in business law.
 					</p>
-					
+
 					<ul>
 						<li>Mission:</li>
 						<li><i class="ri-check-double-line"></i>Establish a supportive and coordinative environment</li>
-						<li><i class="ri-check-double-line"></i>Provide legal trainings which enable members to develop their highest capabilities and skills 
-						in business law</li>
+						<li><i class="ri-check-double-line"></i>Provide legal trainings which enable members to develop their highest capabilities and skills
+							in business law</li>
 						<li><i class="ri-check-double-line"></i>Encourage the members leadership and organizational skills through the management of the
-						work programs that will be carried out</li>
+							work programs that will be carried out</li>
 						<li><i class="ri-check-double-line"></i>Provide networking opportunities and actively aid members pursuing a career in business law</li>
-					
+
 					</ul>
-				
+
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
-				<br>
-				<br>
-				<br>
-			
+					<br>
+					<br>
+					<br>
+
 					<p>
 						ABLS is a business law society in Atma Jaya Catholic University of Indonesia.
 						We are the only organization in Atma Jaya Catholic University of Indonesia that
