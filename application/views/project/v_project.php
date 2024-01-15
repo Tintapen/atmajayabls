@@ -25,7 +25,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('cla') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="Corporate Legal Academy">
+							<img src="assets/img/abls/cla.png" class="img-fluid" alt="Corporate Legal Academy">
 						</div>
 						<p>Corporate Legal Academy</p>
 					</a>

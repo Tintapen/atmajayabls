@@ -16,7 +16,7 @@
  			</div>
  			<div class="row content">
  				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
- 					<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="Corporate Legal Academy">
+ 					<img src="assets/img/abls/cla.png" class="img-fluid" alt="Corporate Legal Academy">
 
  				</div>
  				<div class="col-lg-6 pt-4 pt-lg-0 text-justify" data-aos="fade-left">

@@ -88,7 +88,7 @@
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
 						<a href="<?= base_url('cla') ?>">
-							<img src="assets/img/abls/Photo-1.png" class="img-fluid" alt="">
+							<img src="assets/img/abls/cla.png" class="img-fluid" alt="">
 						</a>
 					</div>
 				</div>
