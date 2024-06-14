@@ -4,7 +4,7 @@
 
 		<div class="carousel-inner" role="listbox">
 			<!-- Slide 1 -->
-			<!-- <div class="carousel-item active" style="background-image: url(assets/img/abls/foto-bersama.png);"></div> -->
+			<div class="carousel-item active" style="background-image: url(<?= base_url("assets/img/abls/home_page.jpg") ?>"></div>
 		</div>
 
 
