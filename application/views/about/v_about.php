@@ -14,7 +14,6 @@
 	<!-- ======= About Us Section ======= -->
 	<section id="about-us" class="about-us">
 		<div class="container" data-aos="fade-up">
-
 			<div class="row content text-justify">
 				<div class="col-lg-6" data-aos="fade-right">
 					<br><br><br>
@@ -26,11 +25,12 @@
 					<p>Thank you for visiting our Offcial Website!</p>
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0 align-items-center justify-content-center" data-aos="fade-left">
-				
-				<img src="assets/img/abls/Division_2023/Division/23-removebg.png" class="img-fluid" alt="Marwa Hasna Loekman" width="520" height="520">
-				<h2 style="text-align:center">Marwa Hasna Loekman</h2>
-				<h3 style="text-align:center">Executive Director of ABLS</h3>
-				<h3 style="text-align:center">Board of 2023</h3>
+					<div class="text-center">
+						<img src="<?= base_url("assets/img/abls/division_2024/putu_audrey_executive_director.jpeg") ?>" class="img-fluid rounded" alt="Marwa Hasna Loekman" width="400" height="400">
+					</div>
+					<h3 style="text-align:center">I.G.A Putu Audrey Frangipani</h3>
+					<h5 style="text-align:center">Executive Director of ABLS</h5>
+					<h5 style="text-align:center">Board of 2024</h5>
 				</div>
 			</div>
 

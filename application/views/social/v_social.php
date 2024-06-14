@@ -1,6 +1,6 @@
  <section id="hero">
      <div class="hero-image">
-         <div class="carousel-item active" style="background-image: url(assets/img/abls/homepage.jpg);">
+         <div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/foto_1.jpg);">
              <div class="hero-taxt">
                  <h1>NBLC Social Responsibility Webinar</h1>
              </div>
@@ -44,58 +44,46 @@
              </div>
          </div>
      </section>
-
-
      <section id="portfolio" class="portfolio section-bg">
          <div class="container">
              <div class="section-title mt-5" data-aos="fade-up">
                  <h2><strong>NBLC Social Responsibility Webinar Documentaries</strong></h2>
              </div>
              <div class="row portfolio-container" data-aos="fade-up">
-
                  <div class="col-lg-4 col-md-6 portfolio-item filter">
-                     <a href="assets/img/abls/homepage.jpg" data-gall="portfolioGallery" class="venobox preview-link">
-                         <img src="assets/img/abls/homepage.jpg" class="img-fluid" alt="">
+                     <a href="<?= base_url("assets/img/abls/nblc/foto_1.jpg") ?>" data-gall="portfolioGallery" class="venobox preview-link">
+                         <img src="<?= base_url("assets/img/abls/nblc/foto_1.jpg") ?>" class="img-fluid" alt="">
                      </a>
                  </div>
-
                  <div class="col-lg-4 col-md-6 portfolio-item filter">
-                     <a href="assets/img/abls/secondpage.jpg" data-gall="portfolioGallery" class="venobox preview-link">
-                         <img src="assets/img/abls/secondpage.jpg" class="img-fluid" alt="">
+                     <a href="<?= base_url("assets/img/abls/nblc/foto_2.jpg") ?>" data-gall="portfolioGallery" class="venobox preview-link">
+                         <img src="<?= base_url("assets/img/abls/nblc/foto_2.jpg") ?>" class="img-fluid" alt="">
                      </a>
                  </div>
-
                  <div class="col-lg-4 col-md-6 portfolio-item filter">
-                     <a href="assets/img/abls/thirdpage.jpg" data-gall="portfolioGallery" class="venobox preview-link">
-                         <img src="assets/img/abls/thirdpage.jpg" class="img-fluid" alt="">
+                     <a href="<?= base_url("assets/img/abls/nblc/foto_3.jpg") ?>" data-gall="portfolioGallery" class="venobox preview-link">
+                         <img src="<?= base_url("assets/img/abls/nblc/foto_3.jpg") ?>" class="img-fluid" alt="">
                      </a>
                  </div>
-
                  <div class="col-lg-4 col-md-6 portfolio-item filter">
-                     <a href="assets/img/abls/fourthpage.jpg" data-gall="portfolioGallery" class="venobox preview-link">
-                         <img src="assets/img/abls/fourthpage.jpg" class="img-fluid" alt="">
+                     <a href="<?= base_url("assets/img/abls/nblc/foto_4.jpg") ?>" data-gall="portfolioGallery" class="venobox preview-link">
+                         <img src="<?= base_url("assets/img/abls/nblc/foto_4.jpg") ?>" class="img-fluid" alt="">
                      </a>
                  </div>
-
                  <div class="col-lg-4 col-md-6 portfolio-item filter">
-                     <a href="assets/img/abls/fifthpage.jpg" data-gall="portfolioGallery" class="venobox preview-link">
-                         <img src="assets/img/abls/fifthpage.jpg" class="img-fluid" alt="">
+                     <a href="<?= base_url("assets/img/abls/nblc/foto_5.jpg") ?>" data-gall="portfolioGallery" class="venobox preview-link">
+                         <img src="<?= base_url("assets/img/abls/nblc/foto_5.jpg") ?>" class="img-fluid" alt="">
                      </a>
                  </div>
-
              </div>
-
      </section>
-
      <section id="portfolio" class="portfolio">
          <div class="container">
              <div class="section-title mt-3" data-aos="fade-up">
                  <h2><strong>Social Media</strong></h2>
              </div>
-
              <div class="row d-flex justify-content-center mx-md-n5">
-                 <a href="https://www.instagram.com/nblc.indonesia/" class="instagram px-3" title="Instagram"><i
-                         class="icofont-instagram icofont-2x"></i></a>
+                 <a href="https://www.instagram.com/nblc.indonesia/" class="instagram px-3" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
              </div>
          </div>
      </section>

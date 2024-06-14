@@ -3,7 +3,7 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/BANNER_ILOC.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/banner/iloc_banner.png);">
 				<div class="hero-taxt">
 					<h2>Atma Jaya Internal Legal Opinion Competition 2021</h2>
 				</div>
@@ -128,10 +128,7 @@
 
 			<div class="row d-flex justify-content-center mx-md-n5">
 				<a href="https://www.instagram.com/atmajayailoc/" class="instagram px-3" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
-				<!-- <a href="#" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a> -->
-				<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
 				<a href="mailto:atmajayailoc2021@gmail.com" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
-				<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
 			</div>
 		</div>
 	</section>

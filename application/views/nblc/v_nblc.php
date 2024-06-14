@@ -4,11 +4,11 @@
 
 		<div class="carousel-inner" role="listbox">
 			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/BANNERNBLC.png);">
-			<div class="hero-taxt">
-				<h2>National Business Law Community</h2>
+				<div class="hero-taxt">
+					<h2>National Business Law Community</h2>
+				</div>
 			</div>
 		</div>
-	</div>
 
 </section>
 
@@ -74,7 +74,7 @@
 						<div class="member-info">
 							<h4>Feira Salsabila Nadiaputri</h4>
 							<span>Director of Organization</span>
-                            <!-- <span>of</span>
+							<!-- <span>of</span>
 							<span>Organization</span> -->
 							<!-- <span>Board of 2021</span> -->
 						</div>
@@ -94,7 +94,7 @@
 						<div class="member-info">
 							<h4>Muhammad Kunisyahputra Pasha</h4>
 							<span>Executive Director</span>
-                            <!-- <span>of</span>
+							<!-- <span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span> -->
 						</div>
@@ -113,7 +113,7 @@
 						<div class="member-info">
 							<h4>Rania Pramesti Jaya</h4>
 							<span>Director Of Research</span>
-                            <!-- <span>of</span>
+							<!-- <span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2021</span> -->
 						</div>

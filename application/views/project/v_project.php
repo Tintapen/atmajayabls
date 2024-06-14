@@ -17,7 +17,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('nblcsummit') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/nblc/NBLC_SUMMIT2.png" class="img-fluid" alt="NBLC Summit">
+							<img src="<?= base_url("assets/img/abls/project/nblc_summit_logo.png") ?>" class="img-fluid" alt="NBLC Summit">
 						</div>
 						<p>NBLC Summit</p>
 					</a>
@@ -25,7 +25,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('cla') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/cla.png" class="img-fluid" alt="Corporate Legal Academy">
+							<img src="<?= base_url("assets/img/abls/project/cla_logo.png") ?>" class="img-fluid" alt="Corporate Legal Academy">
 						</div>
 						<p>Corporate Legal Academy</p>
 					</a>
@@ -33,7 +33,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('iloc') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/3.png" class="img-fluid" alt="Internal Legal Opinion Competition">
+							<img src="<?= base_url("assets/img/abls/project/iloc_logo.png") ?>" class="img-fluid" alt="Internal Legal Opinion Competition">
 						</div>
 						<p>Internal Legal Opinion Competition</p>
 					</a>
@@ -41,7 +41,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('ablc') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="Atma Jaya Business Law Competition">
+							<img src="<?= base_url("assets/img/abls/project/ablc_logo.png") ?>" class="img-fluid" alt="Atma Jaya Business Law Competition">
 						</div>
 						<p>Atma Jaya Business Law Competition</p>
 					</a>
@@ -49,7 +49,7 @@
 				<div class="col text-center">
 					<a href="<?= base_url('social') ?>">
 						<div class="h-75 mb-auto">
-							<img src="assets/img/abls/NBLC.png" class="img-fluid" alt="NBLC Social Responsibility Webinar">
+							<img src="<?= base_url("assets/img/abls/project/nblc_logo.png") ?>" class="img-fluid" alt="NBLC Social Responsibility Webinar">
 						</div>
 						<p>NBLC Social Responsibility Webinar</p>
 					</a>

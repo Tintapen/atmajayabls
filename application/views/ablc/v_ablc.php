@@ -3,7 +3,7 @@
 	<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
 		<div class="carousel-inner" role="listbox">
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/nblc/BANNER_ABLC.png);">
+			<div class="carousel-item active" style="background-image: url(assets/img/abls/banner/ablc_banner.png);">
 				<div class="hero-taxt">
 					<h2 class="mt-xl-5">The 2nd Atma Jaya Business Law Competition 2021</h2>
 				</div>
@@ -20,7 +20,7 @@
 			</div>
 			<div class="row content">
 				<div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="fade-right">
-					<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="Atma Jaya Business Law Competition">
+					<img src="<?= base_url("assets/img/abls/project/ablc_logo.png") ?>" class="img-fluid" alt="Atma Jaya Business Law Competition">
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0 text-justify" data-aos="fade-left">
 					<p>
@@ -72,10 +72,7 @@
 
 			<div class="row d-flex justify-content-center mx-md-n5">
 				<a href="https://www.instagram.com/atmajayablc/" class="instagram px-3" title="Instagram"><i class="icofont-instagram icofont-2x"></i></a>
-				<!-- <a href="#" class="linkedin px-md-5" title="Linkedin"><i class="icofont-linkedin icofont-2x"></i></a> -->
-				<!-- <a href="#" class="facebook px-md-5" title="Facebook"><i class="icofont-facebook icofont-2x"></i></a> -->
 				<a href="mailto:ablcfhuaj@gmail.com" class="message px-3" title="Message"><i class="icofont-ui-message icofont-2x"></i></a>
-				<!-- <a href="#" class="youtube px-md-5" title="Youtube"><i class="icofont-youtube-play icofont-2x"></i></a> -->
 			</div>
 		</div>
 	</section>

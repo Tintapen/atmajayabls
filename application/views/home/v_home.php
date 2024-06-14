@@ -4,8 +4,7 @@
 
 		<div class="carousel-inner" role="listbox">
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(assets/img/abls/foto-bersama.png);">
-			</div>
+			<!-- <div class="carousel-item active" style="background-image: url(assets/img/abls/foto-bersama.png);"></div> -->
 		</div>
 
 
@@ -81,36 +80,35 @@
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
 						<a href="<?= base_url('nblcsummit') ?>">
-							<img src="assets/img/abls/nblc/NBLC_SUMMIT2.png" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/project/nblc_summit_logo.png") ?>" class="img-fluid" alt="">
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
 						<a href="<?= base_url('cla') ?>">
-							<img src="assets/img/abls/cla.png" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/project/cla_logo.png") ?>" class="img-fluid" alt="">
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
 						<a href="<?= base_url('iloc') ?>">
-							<img src="assets/img/abls/3.png" class="img-fluid" alt="" style="width:75px;height:70px;">
+							<img src="<?= base_url("assets/img/abls/project/iloc_logo.png") ?>" class="img-fluid" alt="" style="width:75px;height:70px;">
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
 						<a href="<?= base_url('ablc') ?>">
-							<img src="assets/img/abls/ABLC.png" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/project/ablc_logo.png") ?>" class="img-fluid" alt="">
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<a href="<?= base_url('social')
-									?>">
-							<img src="assets/img/abls/NBLC.png" class="img-fluid" alt="">
+						<a href="<?= base_url('social') ?>">
+							<img src="<?= base_url("assets/img/abls/project/nblc_logo.png") ?>" class="img-fluid" alt="">
 						</a>
 					</div>
 				</div>
