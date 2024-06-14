@@ -21,14 +21,10 @@
 			</div>
 
 			<div class="row d-flex justify-content-center">
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="assets/img/abls/Division_2023/Division/33.png" class="img-fluid" alt="">
-							<!-- <div class="social">
-								<a href="https://www.instagram.com/james.xaverius/"><i class="icofont-instagram"></i></a>
-								<a href="https://www.linkedin.com/in/james-xaverius/"><i class="icofont-linkedin"></i></a>
-							</div> -->
 						</div>
 						<div class="member-info">
 							<h4>Shane Patrick Pramajaya</h4>
@@ -38,7 +34,7 @@
 							<span>Board of 2023</span>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 
 			<div class="row d-flex justify-content-center">

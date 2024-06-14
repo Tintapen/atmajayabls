@@ -96,7 +96,7 @@
 
 			<!-- Staff Second Line -->
 			<div class="row d-flex justify-content-center">
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="700">
 						<div class="member-img">
 							<img src="#" class="img-fluid" alt="">
@@ -109,7 +109,7 @@
 							<span>Board of 2024</span>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="800">
 						<div class="member-img">
@@ -124,7 +124,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="900">
 						<div class="member-img">
 							<img src="#" class="img-fluid" alt="">
@@ -137,7 +137,7 @@
 							<span>Board of 2024</span>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 
 			<hr color="#A33020" width="100%" size="75%">
