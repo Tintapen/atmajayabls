@@ -41,6 +41,20 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
+							<img src="<?= base_url("assets/img/abls/division_2024/research/rizky_maulana_manager_of_event.jpeg") ?>" class="img-fluid" alt="">
+						</div>
+						<div class="member-info">
+							<h4>Rizky Maulana</h4>
+							<span>Manager of Events</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2024</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
 							<img src="<?= base_url("assets/img/abls/division_2024/research/danendra_patriatama_vice_manager_of_event.jpg") ?>" class="img-fluid" alt="">
 						</div>
 						<div class="member-info">
@@ -55,11 +69,39 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="<?= base_url("assets/img/abls/division_2024/research/rizky_maulana_manager_of_event.jpeg") ?>" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/division_2024/research/fransisca_helen_kusuma_staff_of_event.jpg") ?>" class="img-fluid" alt="">
 						</div>
 						<div class="member-info">
-							<h4>Rizky Maulana</h4>
-							<span>Manager of Events</span>
+							<h4>Fransisca Helen Kusuma</h4>
+							<span>Staff of Events</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2024</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
+							<img src="<?= base_url("assets/img/abls/division_2024/research/cut_meuthia_berlina_staff_of_event.jpg") ?>" class="img-fluid" alt="">
+						</div>
+						<div class="member-info">
+							<h4>Cut Meuthia Berlina</h4>
+							<span>Staff of Events</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2024</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
+							<img src="<?= base_url("assets/img/abls/division_2024/research/narinda_denaya_manager_of_competition.jpeg") ?>" class="img-fluid" alt="">
+						</div>
+						<div class="member-info">
+							<h4>Narinda Denaya</h4>
+							<span>Manager of Competitions</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2024</span>
@@ -87,7 +129,7 @@
 						</div>
 						<div class="member-info">
 							<h4>Aileen Jeane Joefa Chendrawan</h4>
-							<span>Staff Manager of Competitions</span>
+							<span>Staff of Competitions</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2024</span>
@@ -101,7 +143,7 @@
 						</div>
 						<div class="member-info">
 							<h4>Gayatri</h4>
-							<span>Staff Manager of Competitions</span>
+							<span>Staff of Competitions</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2024</span>

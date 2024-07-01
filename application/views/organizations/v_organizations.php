@@ -82,6 +82,20 @@
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
+							<img src="<?= base_url("assets/img/abls/division_2024/organizations/amanda_violina_florencia_staff_internal.jpg") ?>" class="img-fluid" alt="">
+						</div>
+						<div class="member-info">
+							<h4>Amanda Violina Florencia</h4>
+							<span>Staff Internal Affairs</span>
+							<span>of</span>
+							<span>Atma Jaya BLS</span>
+							<span>Board of 2024</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+					<div class="member" data-aos="fade-up" data-aos-delay="300">
+						<div class="member-img">
 							<img src="<?= base_url("assets/img/abls/division_2024/organizations/jennifer_bonang_vice_external.jpeg") ?>" class="img-fluid" alt="">
 						</div>
 						<div class="member-info">

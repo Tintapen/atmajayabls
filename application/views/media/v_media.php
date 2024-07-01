@@ -48,13 +48,13 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/division_2024/media/dwina_ayu_nurshafa_staff_of_design.jpg") ?>" class="img-fluid" alt="">
 						</div>
 						<div class="member-info">
-							<h4></h4>
+							<h4>Dwina Ayu Nurshafa</h4>
 							<span>Vice Manager of Media</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
@@ -62,7 +62,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+
+				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
 							<img src="#" class="img-fluid" alt="">
