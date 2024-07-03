@@ -21,20 +21,20 @@
 			</div>
 
 			<div class="row d-flex justify-content-center">
-				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="300">
 						<div class="member-img">
-							<img src="assets/img/abls/Division_2023/Division/33.png" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/division_2024/research/shira_gavrila_weenas_director.jpeg") ?>" class="img-fluid" alt="">
 						</div>
 						<div class="member-info">
-							<h4>Shane Patrick Pramajaya</h4>
+							<h4>Shira Gavrila Weenas</h4>
 							<span>Director of Research</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
-							<span>Board of 2023</span>
+							<span>Board of 2024</span>
 						</div>
 					</div>
-				</div> -->
+				</div>
 			</div>
 
 			<div class="row d-flex justify-content-center">
