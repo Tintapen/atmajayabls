@@ -96,20 +96,20 @@
 
 			<!-- Staff Second Line -->
 			<div class="row d-flex justify-content-center">
-				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="700">
 						<div class="member-img">
-							<img src="#" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/division_2024/research/shira_gavrila_weenas_director.jpeg") ?>" class="img-fluid" alt="">
 						</div>
 						<div class="member-info">
-							<h4></h4>
+							<h4>Shira Gavrila Weenas</h4>
 							<span>Director of Research</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2024</span>
 						</div>
 					</div>
-				</div> -->
+				</div>
 				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="800">
 						<div class="member-img">
@@ -124,20 +124,20 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+				<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
 					<div class="member" data-aos="fade-up" data-aos-delay="900">
 						<div class="member-img">
-							<img src="#" class="img-fluid" alt="">
+							<img src="<?= base_url("assets/img/abls/division_2024/organizations/muhammad_gibran_balli_director.jpg") ?>" class="img-fluid" alt="">
 						</div>
 						<div class="member-info">
-							<h4></h4>
+							<h4>Muhammad Gibran Balli</h4>
 							<span>Director of Organizations</span>
 							<span>of</span>
 							<span>Atma Jaya BLS</span>
 							<span>Board of 2024</span>
 						</div>
 					</div>
-				</div> -->
+				</div>
 			</div>
 
 			<hr color="#A33020" width="100%" size="75%">
